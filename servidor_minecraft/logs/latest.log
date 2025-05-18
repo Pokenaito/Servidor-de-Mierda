@@ -3086,3 +3086,48 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [18May2025 03:59:38.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
 [18May2025 04:00:09.074] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
 [18May2025 04:00:09.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[18May2025 04:01:39.800] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/64809, l='ServerLevel[world]', x=-676.83, y=-256.00, z=351.98] died, message: 'Villager was killed'
+[18May2025 04:03:39.042] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:42365] logged in with entity id 65690 at (-766.3485694337008, 63.0, 337.69999998807907)
+[18May2025 04:03:39.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[18May2025 04:04:03.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> .
+[18May2025 04:04:37.665] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Turtle['Surrender'/62890, l='ServerLevel[world]', x=-536.00, y=46.00, z=-220.00] died: Surrender discovered the floor was lava
+[18May2025 04:04:39.176] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[18May2025 04:04:39.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[18May2025 04:04:58.746] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/66219, l='ServerLevel[world]', x=-736.50, y=61.06, z=298.50] died, message: 'Villager was killed'
+[18May2025 04:05:16.045] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:58369] logged in with entity id 66729 at (-766.7390839413622, 63.0, 337.6033366518146)
+[18May2025 04:05:16.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[18May2025 04:05:49.327] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[18May2025 04:05:49.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[18May2025 04:06:07.424] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:51207] logged in with entity id 67788 at (-766.7390839413622, 63.0, 337.6033366518146)
+[18May2025 04:06:07.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[18May2025 04:07:07.528] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[18May2025 04:07:07.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[18May2025 04:07:29.369] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Turtle['Surrender'/43057, l='ServerLevel[world]', x=-541.71, y=53.00, z=-202.05] died: Surrender discovered the floor was lava
+[18May2025 04:07:34.806] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/68885, l='ServerLevel[world]', x=-683.28, y=-256.00, z=349.93] died, message: 'Villager was killed'
+[18May2025 04:07:51.243] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:53017] logged in with entity id 69072 at (-766.7390839413622, 63.0, 337.6033366518146)
+[18May2025 04:07:51.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[18May2025 04:08:23.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> n
+[18May2025 04:09:23.731] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[18May2025 04:09:23.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[18May2025 04:09:58.737] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:41825] logged in with entity id 71705 at (-766.7390839413622, 63.0, 337.6033366518146)
+[18May2025 04:09:58.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[18May2025 04:09:59.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! 20.369051964781306,1.1452451115675615,-0.6593052495129541
+[18May2025 04:10:15.027] [Worker-Main-15/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-1, y=11, z=1036}
+[18May2025 04:10:15.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -14.504056133152659,-0.8543291879148569,-18.62836410872842
+[18May2025 04:10:26.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -21.833065718367607,-2.4039777877837025,-8.614858230473828
+[18May2025 04:11:00.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 experienced kinetic energy
+[18May2025 04:11:00.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved wrongly!
+[18May2025 04:15:59.690] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[18May2025 04:15:59.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[18May2025 04:16:31.411] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:52989] logged in with entity id 82845 at (-766.6702029666843, 63.0, 338.1237769442913)
+[18May2025 04:16:31.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[18May2025 04:17:16.537] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[18May2025 04:17:16.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[18May2025 04:17:44.692] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:42719] logged in with entity id 85133 at (-766.6702029666843, 63.0, 338.1237769442913)
+[18May2025 04:17:44.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[18May2025 04:19:11.006] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[18May2025 04:19:11.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[18May2025 04:19:29.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -2.9727163853584386,0.585430105943729,-10.212324457284467
+[18May2025 04:19:38.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -5.950180185283699,-0.12029555572347306,-8.74871590840462
+[18May2025 04:19:42.540] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! 3.718791590382736,-0.1155369755891229,-9.442604186788913
+[18May2025 04:19:43.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved wrongly!

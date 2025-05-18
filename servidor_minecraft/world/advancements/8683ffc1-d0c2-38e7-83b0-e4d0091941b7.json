@@ -12868,6 +12868,24 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/soul_elytra": {
+    "criteria": {
+      "has_elytra": "2025-05-18 04:07:57 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-18 04:15:14 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-18 04:15:14 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/bone_blocks/stacked_bones": {
     "criteria": {
       "has_item": "2025-05-18 03:05:40 +0000"
