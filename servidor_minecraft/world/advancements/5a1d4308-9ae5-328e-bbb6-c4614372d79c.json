@@ -34,6 +34,7 @@
       "minecraft:snowy_slopes": "2025-04-19 05:07:48 +0000",
       "minecraft:old_growth_pine_taiga": "2025-05-08 05:30:56 +0000",
       "minecraft:taiga": "2025-04-18 04:26:17 +0000",
+      "minecraft:frozen_river": "2025-05-10 05:22:38 +0000",
       "minecraft:cherry_grove": "2025-04-19 05:05:54 +0000",
       "minecraft:sunflower_plains": "2025-04-27 17:53:12 +0000",
       "minecraft:birch_forest": "2025-04-18 19:40:59 +0000",
@@ -48,6 +49,7 @@
       "minecraft:river": "2025-04-18 01:47:49 +0000",
       "minecraft:lukewarm_ocean": "2025-04-27 17:00:57 +0000",
       "minecraft:stony_shore": "2025-04-19 04:39:44 +0000",
+      "minecraft:snowy_plains": "2025-05-13 03:32:35 +0000",
       "minecraft:dripstone_caves": "2025-04-23 04:30:50 +0000",
       "minecraft:snowy_taiga": "2025-05-08 05:34:36 +0000",
       "minecraft:grove": "2025-05-08 05:34:38 +0000",
@@ -1147,16 +1149,21 @@
       "minecraft:skeleton": "2025-04-18 02:22:06 +0000",
       "minecraft:ghast": "2025-05-08 01:00:36 +0000",
       "minecraft:hoglin": "2025-04-30 02:42:52 +0000",
+      "minecraft:vindicator": "2025-05-13 03:39:52 +0000",
       "minecraft:magma_cube": "2025-05-08 03:17:16 +0000",
       "minecraft:spider": "2025-04-18 16:53:39 +0000",
       "minecraft:piglin_brute": "2025-05-06 02:50:09 +0000",
       "minecraft:creeper": "2025-04-18 02:21:21 +0000",
       "minecraft:phantom": "2025-05-04 01:32:27 +0000",
       "minecraft:zombified_piglin": "2025-05-04 01:06:09 +0000",
+      "minecraft:witch": "2025-05-13 03:40:38 +0000",
       "minecraft:wither_skeleton": "2025-05-08 03:17:26 +0000",
+      "minecraft:ender_dragon": "2025-05-13 04:02:04 +0000",
+      "minecraft:shulker": "2025-05-13 04:31:33 +0000",
       "minecraft:piglin": "2025-04-27 20:30:17 +0000",
       "minecraft:enderman": "2025-04-21 17:21:40 +0000",
       "minecraft:silverfish": "2025-05-08 05:47:29 +0000",
+      "minecraft:vex": "2025-05-13 03:37:31 +0000",
       "minecraft:zombie": "2025-04-18 16:31:40 +0000",
       "minecraft:drowned": "2025-04-27 20:53:43 +0000",
       "minecraft:zombie_villager": "2025-04-23 05:04:07 +0000"
@@ -2152,6 +2159,7 @@
       "rice": "2025-04-20 16:27:45 +0000",
       "beetroot": "2025-04-21 17:26:01 +0000",
       "brown_mushroom": "2025-05-01 19:56:10 +0000",
+      "sugar_cane": "2025-05-12 06:06:56 +0000",
       "potato": "2025-04-19 05:55:21 +0000",
       "red_mushroom": "2025-04-20 18:25:56 +0000",
       "nether_wart": "2025-05-06 03:58:33 +0000",
@@ -10979,41 +10987,593 @@
     },
     "done": true
   },
-  "incendium:technical/new_player": {
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
     "criteria": {
-      "requirement": "2025-05-17 02:08:00 +0000"
+      "has_diamond_ore": "2025-05-10 05:37:24 +0000"
     },
     "done": true
   },
-  "dungeons_arise:wda_root": {
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
     "criteria": {
-      "WDA": "2025-05-17 02:08:00 +0000"
+      "has_diamond_ore": "2025-05-10 05:37:24 +0000"
     },
     "done": true
   },
-  "incendium:technical/using/shield": {
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 02:08:02 +0000"
+      "has_emerald_ore": "2025-05-10 05:38:42 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/scroll_of_returning": {
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 02:08:02 +0000"
+      "has_emerald_ore": "2025-05-10 05:38:42 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/using/ragnarok": {
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 02:08:02 +0000"
+      "has_coal_ore": "2025-05-10 05:46:41 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/using/trailblazer": {
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 02:08:02 +0000"
+      "has_coal_ore": "2025-05-10 05:46:41 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2025-05-10 05:46:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2025-05-10 05:46:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-05-10 05:48:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-05-10 05:48:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
+    "criteria": {
+      "has_cobweb": "2025-05-12 03:31:28 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/sausage": {
+    "criteria": {
+      "has_cooked_beef": "2025-05-12 03:31:56 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_excavator": {
+    "criteria": {
+      "gobber2_excavator": "2025-05-12 03:35:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/gold_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-05-12 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/gold_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-05-12 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-05-12 03:50:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-05-12 03:50:30 +0000"
+    },
+    "done": true
+  },
+  "a_man_with_plushies:first_golden_plush_box": {
+    "criteria": {
+      "first_golden_plush_box_0": "2025-05-12 05:51:50 +0000"
+    },
+    "done": true
+  },
+  "a_man_with_plushies:first_uncommon_plushie": {
+    "criteria": {
+      "first_uncommon_plushie_0": "2025-05-12 05:52:02 +0000"
+    },
+    "done": true
+  },
+  "a_man_with_plushies:first_rare_plushie": {
+    "criteria": {
+      "first_rare_plushie_0": "2025-05-12 06:14:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/cardboard_from_bound_block": {
+    "criteria": {
+      "has_item": "2025-05-12 06:39:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/cardboard_from_block": {
+    "criteria": {
+      "has_item": "2025-05-12 06:39:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/bound_cardboard_block": {
+    "criteria": {
+      "has_item": "2025-05-12 06:39:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/book": {
+    "criteria": {
+      "has_item": "2025-05-12 06:39:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/cardboard_block": {
+    "criteria": {
+      "has_item": "2025-05-12 06:39:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/cardboard_leggings": {
+    "criteria": {
+      "has_item": "2025-05-12 06:39:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/cardboard_sword": {
+    "criteria": {
+      "has_item": "2025-05-12 06:39:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/cardboard_helmet": {
+    "criteria": {
+      "has_item": "2025-05-12 06:39:05 +0000"
+    },
+    "done": true
+  },
+  "create:cardboard": {
+    "criteria": {
+      "0": "2025-05-12 06:39:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/package_frogport": {
+    "criteria": {
+      "has_item": "2025-05-12 06:39:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/redstone_requester": {
+    "criteria": {
+      "has_item": "2025-05-12 06:39:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/stock_link": {
+    "criteria": {
+      "has_item": "2025-05-12 06:39:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/name_tag": {
+    "criteria": {
+      "has_item": "2025-05-12 06:39:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/cardboard_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-12 06:39:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/cardboard_boots": {
+    "criteria": {
+      "has_item": "2025-05-12 06:39:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/packager": {
+    "criteria": {
+      "has_item": "2025-05-12 06:39:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/item_frame": {
+    "criteria": {
+      "has_item": "2025-05-12 06:39:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/stock_ticker": {
+    "criteria": {
+      "has_item": "2025-05-12 06:39:05 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/barrel_main": {
+    "criteria": {
+      "has_barrel": "2025-05-13 01:04:44 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/get_beer_wheat": {
+    "criteria": {
+      "beer_wheat": "2025-05-13 01:27:21 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/get_whiskey_maggoallan": {
+    "criteria": {
+      "whiskey_maggoallan": "2025-05-13 01:41:12 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/get_dried_wheat": {
+    "criteria": {
+      "dry_wheat": "2025-05-13 01:46:32 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_crate": {
+    "criteria": {
+      "has_birch_planks": "2025-05-13 02:22:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_cutting_board": {
+    "criteria": {
+      "has_birch_planks": "2025-05-13 02:22:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_desk": {
+    "criteria": {
+      "has_birch_planks": "2025-05-13 02:22:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-05-13 02:22:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_drawer": {
+    "criteria": {
+      "has_birch_planks": "2025-05-13 02:22:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_table": {
+    "criteria": {
+      "has_birch_planks": "2025-05-13 02:22:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_mail_box": {
+    "criteria": {
+      "has_birch_planks": "2025-05-13 02:22:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-05-13 03:24:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-05-13 03:24:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-05-13 03:24:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-05-13 03:24:28 +0000"
+    },
+    "done": true
+  },
+  "takesapillage:bastille": {
+    "criteria": {
+      "in_bastille": "2025-05-13 03:36:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/onion": {
+    "criteria": {
+      "has_onion_crate": "2025-05-13 03:44:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-05-13 03:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-05-13 03:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-05-13 04:02:04 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_rod_end": {
+    "criteria": {
+      "gobber2_rod_end": "2025-05-13 04:03:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-13 04:05:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-13 04:05:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-05-13 04:05:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-13 04:05:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-13 04:05:31 +0000"
+    },
+    "done": true
+  },
+  "rpgsmw:ancientmaterial": {
+    "criteria": {
+      "ancientmaterial_0": "2025-05-13 04:25:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-05-13 04:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-05-13 04:31:34 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_glob_end": {
+    "criteria": {
+      "gobber2_glob_end": "2025-05-13 04:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-05-13 04:38:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-05-13 04:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-05-13 04:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-05-13 04:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-05-13 04:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-05-13 04:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-05-13 04:45:44 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_bow_end": {
+    "criteria": {
+      "gobber2_bow_end": "2025-05-13 05:36:30 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_tiles/tiles": {
+    "criteria": {
+      "has_planks": "2025-05-13 05:44:27 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_tiles/tiles_from_etched": {
+    "criteria": {
+      "has_planks": "2025-05-13 05:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-05-13 05:51:28 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_ingot_end": {
+    "criteria": {
+      "gobber2_ingot_end": "2025-05-13 06:04:00 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_sword_end": {
+    "criteria": {
+      "gobber2_sword_end": "2025-05-13 06:04:23 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_ring_end": {
+    "criteria": {
+      "gobber2_ring_end": "2025-05-13 06:08:12 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_ring_airwalking": {
+    "criteria": {
+      "gobber2_ring_airwalking": "2025-05-13 06:08:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-05-15 04:29:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_ingot_from_compacting": {
+    "criteria": {
+      "has_item": "2025-05-15 05:00:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-05-15 04:29:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-05-15 04:29:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-05-15 04:29:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-05-15 04:29:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-05-15 04:29:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-05-15 04:29:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-05-15 04:29:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-05-15 04:29:22 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/craft_disc_mold": {
+    "criteria": {
+      "disc_mold": "2025-05-15 04:58:14 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/craft_blank_mold": {
+    "criteria": {
+      "blank_mold": "2025-05-15 04:57:58 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-05-15 04:29:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_the_recipe": "2025-05-15 04:58:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-05-15 04:29:22 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
