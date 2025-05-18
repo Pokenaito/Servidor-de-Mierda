@@ -3131,3 +3131,27 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [18May2025 04:19:38.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -5.950180185283699,-0.12029555572347306,-8.74871590840462
 [18May2025 04:19:42.540] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! 3.718791590382736,-0.1155369755891229,-9.442604186788913
 [18May2025 04:19:43.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved wrongly!
+[18May2025 04:22:06.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> mamañemas de tortuga
+[18May2025 04:25:05.129] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:40875] logged in with entity id 93217 at (-766.6702029666843, 63.0, 338.1237769442913)
+[18May2025 04:25:05.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[18May2025 04:25:21.800] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/94552, l='ServerLevel[world]', x=-676.68, y=-256.00, z=350.91] died, message: 'Villager was killed'
+[18May2025 04:25:25.799] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/94601, l='ServerLevel[world]', x=-679.88, y=-256.00, z=354.59] died, message: 'Villager was killed'
+[18May2025 04:25:44.799] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/94875, l='ServerLevel[world]', x=-683.29, y=-256.00, z=351.04] died, message: 'Villager was killed'
+[18May2025 04:27:18.804] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/96129, l='ServerLevel[world]', x=-676.68, y=-256.00, z=350.91] died, message: 'Villager was killed'
+[18May2025 04:28:17.799] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/96906, l='ServerLevel[world]', x=-683.28, y=-256.00, z=349.93] died, message: 'Villager was killed'
+[18May2025 04:32:20.816] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[18May2025 04:32:20.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[18May2025 04:33:08.936] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:40043] logged in with entity id 101251 at (-767.411736774801, 69.0, 335.2079416045358)
+[18May2025 04:33:08.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[18May2025 04:33:09.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! 3.6327836966565172,-9.927856530407439,-3.751556739083753
+[18May2025 04:33:50.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> beber mañana no era una necesidad
+[18May2025 04:33:52.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ahora lo es
+[18May2025 04:39:27.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [It's a Sword and A Bow!]
+[18May2025 04:41:24.974] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[18May2025 04:41:24.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[18May2025 04:41:26.513] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Timed out
+[18May2025 04:41:26.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[18May2025 04:41:27.858] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 lost connection: Timed out
+[18May2025 04:41:27.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 left the game
+[18May2025 04:41:37.953] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Timed out
+[18May2025 04:41:37.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
