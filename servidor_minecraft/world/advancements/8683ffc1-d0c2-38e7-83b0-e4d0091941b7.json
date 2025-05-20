@@ -13038,6 +13038,12 @@
     },
     "done": true
   },
+  "brewery:recipes/fried_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2025-05-20 03:59:19 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/sculk_stone_wall": {
     "criteria": {
       "has_sculk_stone": "2025-05-20 02:47:37 +0000"

@@ -2305,3 +2305,21 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [20May2025 03:20:52.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 moved wrongly!
 [20May2025 03:25:57.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Duerme jojo
 [20May2025 03:26:03.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Andamos en el discord
+[20May2025 03:41:25.991] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/51097, l='ServerLevel[world]', x=-683.28, y=-256.00, z=349.93] died, message: 'Villager was killed'
+[20May2025 03:41:32.994] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/51128, l='ServerLevel[world]', x=-676.83, y=-256.00, z=351.98] died, message: 'Villager was killed'
+[20May2025 03:42:38.991] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/51559, l='ServerLevel[world]', x=-683.29, y=-256.00, z=351.04] died, message: 'Villager was killed'
+[20May2025 03:43:02.644] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:56289] logged in with entity id 51733 at (-760.3463893579051, 63.0, 338.03306213475986)
+[20May2025 03:43:02.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[20May2025 03:43:32.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> assdf
+[20May2025 03:43:41.937] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/51830, l='ServerLevel[world]', x=-665.65, y=-256.00, z=356.27] died, message: 'Villager was killed'
+[20May2025 03:43:55.955] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/52088, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.59] died, message: 'Villager was killed'
+[20May2025 03:44:24.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
+[20May2025 03:45:02.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 7.188597153827345,-1.1661092609382138,-7.207375113034914
+[20May2025 03:57:34.990] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/58779, l='ServerLevel[world]', x=-679.88, y=-256.00, z=354.59] died, message: 'Villager was killed'
+[20May2025 03:58:16.990] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/58922, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.59] died, message: 'Villager was killed'
+[20May2025 03:59:02.937] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/59062, l='ServerLevel[world]', x=-736.50, y=61.06, z=298.50] died, message: 'Villager was killed'
+[20May2025 04:00:37.460] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[20May2025 04:00:37.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[20May2025 04:00:55.781] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:40815] logged in with entity id 59806 at (-667.5617837465094, 65.0, 350.75548636843524)
+[20May2025 04:00:55.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[20May2025 04:01:06.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> aceite
