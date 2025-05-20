@@ -2263,3 +2263,7 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [20May2025 01:58:41.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
 [20May2025 01:58:57.523] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:34925] logged in with entity id 5037 at (-669.1081062648656, 69.32513763919599, 459.080843337013)
 [20May2025 01:58:57.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[20May2025 02:04:49.334] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.73.99.216:57713] logged in with entity id 7383 at (-621.3575465921589, 70.61186025204394, 387.736094735903)
+[20May2025 02:04:49.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[20May2025 02:05:07.991] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7648, l='ServerLevel[world]', x=-676.68, y=-256.00, z=350.91] died, message: 'Villager was killed'
+[20May2025 02:09:54.937] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8732, l='ServerLevel[world]', x=-739.50, y=61.56, z=297.50] died, message: 'Villager was killed'
