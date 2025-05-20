@@ -2278,3 +2278,11 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [20May2025 02:39:05.925] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.69.227.24:57927] logged in with entity id 19103 at (-779.0321851807848, 56.0, 297.4256689926449)
 [20May2025 02:39:05.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
 [20May2025 02:49:20.508] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-550, y=61, z=408} BlockPos{x=-550, y=63, z=410}
+[20May2025 02:51:59.691] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/24561, l='ServerLevel[world]', x=-679.42, y=-256.00, z=356.99] died, message: 'Villager was killed'
+[20May2025 02:53:01.991] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25294, l='ServerLevel[world]', x=-676.68, y=-256.00, z=350.91] died, message: 'Villager was killed'
+[20May2025 02:53:57.462] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CoppertarEntity['I'll find you'/5047, l='ServerLevel[world]', x=-679.50, y=63.00, z=454.50] died: I'll find you was slain by Zombie62002 using [StungStungStungSahur]
+[20May2025 03:00:18.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> jojo
+[20May2025 03:00:21.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Se dice hola
+[20May2025 03:00:32.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> shin hen hanshi
+[20May2025 03:00:36.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> digo hi!
+[20May2025 03:00:53.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> como estan?
