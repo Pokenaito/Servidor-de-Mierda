@@ -12347,5 +12347,17 @@
     },
     "done": true
   },
+  "create_enchantment_industry:experienced_engineer": {
+    "criteria": {
+      "have_experience_nugget": "2025-05-20 06:18:10 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/experience_rotor": {
+    "criteria": {
+      "has_item": "2025-05-20 06:18:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
