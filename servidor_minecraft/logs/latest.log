@@ -2323,3 +2323,74 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [20May2025 04:00:55.781] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:40815] logged in with entity id 59806 at (-667.5617837465094, 65.0, 350.75548636843524)
 [20May2025 04:00:55.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
 [20May2025 04:01:06.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> aceite
+[20May2025 04:03:21.992] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/60919, l='ServerLevel[world]', x=-679.88, y=-256.00, z=354.59] died, message: 'Villager was killed'
+[20May2025 04:10:40.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Que Fue jojo
+[20May2025 04:10:46.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> OAH
+[20May2025 04:10:49.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> viste mi nueva fabrica?
+[20May2025 04:11:02.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> DE LEJOS
+[20May2025 04:11:09.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> se ve brutal
+[20May2025 04:11:11.055] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[20May2025 04:11:11.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[20May2025 04:11:13.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Ty
+[20May2025 04:11:18.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> We andamos en discord
+[20May2025 04:11:37.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> no puedo hacer ruido
+[20May2025 04:11:42.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Ah ok Ok
+[20May2025 04:11:57.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina was kicked for floating too long!
+[20May2025 04:11:57.753] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Flying is not enabled on this server
+[20May2025 04:11:57.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[20May2025 04:12:10.801] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7c85b70b[id=<null>,name=Lechina,properties={},legacy=false] (/127.73.99.216:55483) lost connection: Disconnected
+[20May2025 04:12:14.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Hot Stuff]
+[20May2025 04:12:21.619] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.73.99.216:50345] logged in with entity id 65137 at (-721.4143421251445, 115.3440406726858, 433.7821092282871)
+[20May2025 04:12:21.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[20May2025 04:13:33.222] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:35793] logged in with entity id 65395 at (-675.2478311806325, 65.0, 360.88899921580213)
+[20May2025 04:13:33.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[20May2025 04:13:56.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> xd?
+[20May2025 04:14:00.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Mira mi patio
+[20May2025 04:14:53.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> tenes obsidiana?
+[20May2025 04:15:37.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [Incendium]
+[20May2025 04:15:38.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -8.365193577365403,0.43672747078595364,-6.765003623689267
+[20May2025 04:15:55.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Incendium]
+[20May2025 04:16:02.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -7.02307757508629,0.14245674390862462,7.846347008144107
+[20May2025 04:16:03.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [Hot Stuff]
+[20May2025 04:16:12.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ASD
+[20May2025 04:16:43.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> que es este pilar?
+[20May2025 04:16:58.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ASDAS}
+[20May2025 04:18:04.090] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/69046, l='ServerLevel[world]', x=-765.54, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[20May2025 04:21:10.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 was kicked for floating too long!
+[20May2025 04:21:10.803] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Flying is not enabled on this server
+[20May2025 04:21:10.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[20May2025 04:21:16.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Incendium]
+[20May2025 04:21:22.999] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:36159] logged in with entity id 70205 at (-686.4940342943789, 67.28161902665813, 423.7879856662596)
+[20May2025 04:21:23.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[20May2025 04:21:49.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> H
+[20May2025 04:22:11.992] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/70574, l='ServerLevel[world]', x=-683.28, y=-256.00, z=350.03] died, message: 'Villager was killed'
+[20May2025 04:23:02.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Magia negra
+[20May2025 04:23:14.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> flecha de empuje?
+[20May2025 04:23:15.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> No se toca
+[20May2025 04:23:21.841] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/70827, l='ServerLevel[world]', x=-764.52, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[20May2025 04:23:53.404] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Timed out
+[20May2025 04:23:53.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[20May2025 04:24:33.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Tienes mas almacenamiento en el minecraft que en la oc
+[20May2025 04:24:35.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> pc
+[20May2025 04:24:44.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> XD
+[20May2025 04:24:49.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> para prevenir
+[20May2025 04:24:49.989] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/71406, l='ServerLevel[world]', x=-683.28, y=-256.00, z=349.93] died, message: 'Villager was killed'
+[20May2025 04:25:35.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Your Enderchest at Your Fingertips]
+[20May2025 04:25:39.434] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:55543] logged in with entity id 71609 at (-662.364210436868, 63.0625, 404.684414755072)
+[20May2025 04:25:39.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[20May2025 04:26:05.991] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/71906, l='ServerLevel[world]', x=-683.28, y=-256.00, z=349.93] died, message: 'Villager was killed'
+[20May2025 04:27:50.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Gramophone
+[20May2025 04:28:09.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> jojo
+[20May2025 04:28:14.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> ?
+[20May2025 04:28:14.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Tengo que romperlo
+[20May2025 04:28:44.306] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[20May2025 04:28:44.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[20May2025 04:28:54.075] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:36833] logged in with entity id 72770 at (-749.6779477501735, 64.0, 300.8973088313724)
+[20May2025 04:28:54.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[20May2025 04:29:04.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> A
+[20May2025 04:29:34.152] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Disconnected
+[20May2025 04:29:34.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[20May2025 04:29:52.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> porque? xd
+[20May2025 04:30:09.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> ando preso
+[20May2025 04:30:22.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> doxeado
+[20May2025 04:30:52.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> que musica tan lofi

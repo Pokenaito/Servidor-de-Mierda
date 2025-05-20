@@ -11895,9 +11895,27 @@
     },
     "done": true
   },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-05-20 04:21:16 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_ring_enderchest": {
+    "criteria": {
+      "gobber2_ring_enderchest": "2025-05-20 04:25:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/lime_kitchen_drawer": {
     "criteria": {
       "has_wooden_kitchen_drawers": "2025-05-20 03:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-05-20 04:12:14 +0000"
     },
     "done": true
   },
@@ -11946,6 +11964,12 @@
   "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_drawer": {
     "criteria": {
       "has_wooden_kitchen_drawers": "2025-05-20 03:18:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/cheese": {
+    "criteria": {
+      "has_milk": "2025-05-20 04:27:28 +0000"
     },
     "done": true
   },
