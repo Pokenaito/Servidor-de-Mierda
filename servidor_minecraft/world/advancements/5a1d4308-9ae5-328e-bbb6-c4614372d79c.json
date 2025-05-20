@@ -11589,88 +11589,15 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-18 04:40:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-05-18 04:40:58 +0000",
-      "log_spam_fixer": "2025-05-18 04:40:55 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-18 04:40:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-18 04:40:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-18 04:40:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-18 04:40:55 +0000"
-    },
-    "done": false
-  },
   "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2025-05-18 02:47:38 +0000"
     },
     "done": false
   },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-18 04:40:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-18 04:40:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-18 04:40:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-18 04:40:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-18 04:40:55 +0000"
-    },
-    "done": false
-  },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
       "log_spam_fixer": "2025-05-18 02:47:38 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-18 04:40:55 +0000"
     },
     "done": false
   },
@@ -11686,9 +11613,9 @@
     },
     "done": false
   },
-  "refurbished_furniture:recipes/decorations/green_cooler_from_dyeing": {
+  "minecraft:nether/summon_wither": {
     "criteria": {
-      "has_dye": "2025-05-18 03:15:00 +0000"
+      "summoned": "2025-05-18 03:00:56 +0000"
     },
     "done": true
   },
@@ -11704,6 +11631,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-05-18 03:02:27 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_staff_sniper": {
+    "criteria": {
+      "gobber2_staff_sniper": "2025-05-18 03:07:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-18 03:15:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/green_kitchen_cabinetry": {
     "criteria": {
       "has_green_dye": "2025-05-18 03:15:00 +0000"
@@ -11716,12 +11661,6 @@
     },
     "done": true
   },
-  "gobber2:gobber2_staff_sniper": {
-    "criteria": {
-      "gobber2_staff_sniper": "2025-05-18 03:07:18 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/green_stool_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-18 03:15:00 +0000"
@@ -11731,12 +11670,6 @@
   "minecraft:recipes/decorations/green_candle": {
     "criteria": {
       "has_green_dye": "2025-05-18 03:15:00 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-05-18 03:15:25 +0000"
     },
     "done": true
   },
@@ -11755,12 +11688,6 @@
   "refurbished_furniture:recipes/decorations/green_toilet": {
     "criteria": {
       "has_dye": "2025-05-18 03:15:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": "2025-05-18 03:00:56 +0000"
     },
     "done": true
   },
@@ -11806,45 +11733,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/green_dye_from_seagrass": {
-    "criteria": {
-      "has_seagrass": "2025-05-18 03:27:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_green_bed": {
     "criteria": {
       "has_needed_dye": "2025-05-18 03:15:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_nether_star": "2025-05-18 03:02:27 +0000"
-    },
-    "done": true
-  },
-  "gobber2:gobber2_sword_sniper": {
-    "criteria": {
-      "gobber2_sword_sniper": "2025-05-18 04:39:27 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/green_kitchen_sink_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-18 03:15:00 +0000"
-    },
-    "done": true
-  },
-  "gobber2:gobber2_staff_clearing": {
-    "criteria": {
-      "gobber2_staff_clearing": "2025-05-18 03:15:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_bricks": {
-    "criteria": {
-      "has_nether_brick": "2025-05-18 04:31:18 +0000"
     },
     "done": true
   },
@@ -11866,11 +11763,137 @@
     },
     "done": true
   },
+  "gobber2:gobber2_staff_clearing": {
+    "criteria": {
+      "gobber2_staff_clearing": "2025-05-18 03:15:10 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-18 03:15:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/green_dye_from_seagrass": {
+    "criteria": {
+      "has_seagrass": "2025-05-18 03:27:28 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
       "phantom": "2025-05-18 04:24:47 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-05-18 04:31:18 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_sword_sniper": {
+    "criteria": {
+      "gobber2_sword_sniper": "2025-05-18 04:39:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-18 06:05:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_toilet": {
+    "criteria": {
+      "has_yellow_dye": "2025-05-18 06:05:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-18 06:05:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-18 06:05:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-18 06:05:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-18 06:05:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_drawer": {
+    "criteria": {
+      "has_yellow_dye": "2025-05-18 06:05:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-18 06:05:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-18 06:05:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_cabinetry": {
+    "criteria": {
+      "has_yellow_dye": "2025-05-18 06:05:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-18 06:05:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_basin": {
+    "criteria": {
+      "has_yellow_dye": "2025-05-18 06:05:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_bath": {
+    "criteria": {
+      "has_yellow_dye": "2025-05-18 06:05:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-18 06:05:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_toilet": {
+    "criteria": {
+      "has_dye": "2025-05-18 06:05:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-18 06:05:41 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
