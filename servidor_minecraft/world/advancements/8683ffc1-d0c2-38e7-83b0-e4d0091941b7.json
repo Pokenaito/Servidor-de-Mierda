@@ -13092,12 +13092,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-05-20 05:10:12 +0000"
-    },
-    "done": false
-  },
   "create:precision_mechanism": {
     "criteria": {
       "0": "2025-05-20 05:08:30 +0000"
