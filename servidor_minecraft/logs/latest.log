@@ -2421,3 +2421,6 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [20May2025 05:37:11.491] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/94280, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.42] died, message: 'Villager was killed'
 [20May2025 05:41:11.790] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/95325, l='ServerLevel[world]', x=-765.56, y=-256.00, z=338.99] died, message: 'Villager was killed'
 [20May2025 05:41:29.990] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/95455, l='ServerLevel[world]', x=-683.28, y=-256.00, z=349.93] died, message: 'Villager was killed'
+[20May2025 05:44:45.937] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/96259, l='ServerLevel[world]', x=-736.50, y=61.06, z=298.50] died, message: 'Villager was killed'
+[20May2025 05:44:49.790] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/96388, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.42] died, message: 'Villager was killed'
+[20May2025 05:50:24.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Busy Hands]
