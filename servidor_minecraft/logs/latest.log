@@ -2410,3 +2410,6 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [20May2025 04:58:11.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 left the game
 [20May2025 04:58:53.989] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/85207, l='ServerLevel[world]', x=-664.29, y=-256.00, z=404.19] died, message: 'Villager was killed'
 [20May2025 04:59:15.991] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/85320, l='ServerLevel[world]', x=-664.29, y=-256.00, z=404.19] died, message: 'Villager was killed'
+[20May2025 05:02:49.990] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/86211, l='ServerLevel[world]', x=-683.28, y=-256.00, z=349.93] died, message: 'Villager was killed'
+[20May2025 05:03:48.937] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/86294, l='ServerLevel[world]', x=-736.50, y=61.06, z=298.50] died, message: 'Villager was killed'
+[20May2025 05:08:30.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Complex Curiosities]
