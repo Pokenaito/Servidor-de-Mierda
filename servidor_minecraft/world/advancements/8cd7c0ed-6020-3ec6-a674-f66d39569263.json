@@ -9936,5 +9936,53 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-20 02:14:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-05-20 02:07:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-20 02:14:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-20 02:14:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-05-20 02:07:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-20 02:07:15 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/gold_ingot_from_blasting_gloomslate_gold_ore": {
+    "criteria": {
+      "has_gloomslate_gold_ore": "2025-05-20 02:10:29 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/gold_ingot_from_smelting_gloomslate_gold_ore": {
+    "criteria": {
+      "has_gloomslate_gold_ore": "2025-05-20 02:10:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

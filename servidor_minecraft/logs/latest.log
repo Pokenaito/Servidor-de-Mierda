@@ -2267,3 +2267,4 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [20May2025 02:04:49.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
 [20May2025 02:05:07.991] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7648, l='ServerLevel[world]', x=-676.68, y=-256.00, z=350.91] died, message: 'Villager was killed'
 [20May2025 02:09:54.937] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8732, l='ServerLevel[world]', x=-739.50, y=61.56, z=297.50] died, message: 'Villager was killed'
+[20May2025 02:10:29.937] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8892, l='ServerLevel[world]', x=-736.50, y=61.06, z=298.50] died, message: 'Villager was killed'
