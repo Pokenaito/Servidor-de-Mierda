@@ -2585,3 +2585,11 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [21May2025 04:11:14.186] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/48112, l='ServerLevel[world]', x=-683.29, y=-256.00, z=351.04] died, message: 'Villager was killed'
 [21May2025 04:14:23.435] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/48921, l='ServerLevel[world]', x=-765.59, y=-256.00, z=338.94] died, message: 'Villager was killed'
 [21May2025 04:18:16.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -9.234134014003075,0.4211959814459476,-5.044198097888625
+[21May2025 04:22:22.067] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-584, y=52, z=416} BlockPos{x=-581, y=52, z=411}
+[21May2025 04:24:38.453] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6322ms or 126 ticks behind
+[21May2025 04:24:40.979] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 1385d74c: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[21May2025 04:24:42.125] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 1385d74c: RandomSpreadSearchWorker succeeded with 1641 radius, 18 samples
+[21May2025 04:28:03.837] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/58222, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.34] died, message: 'Villager was killed'
+[21May2025 04:28:26.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has completed the challenge [Return to Sender]
+[21May2025 04:29:08.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Darude - Firestorm]
+[21May2025 04:29:08.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Strange Biomes]
