@@ -11908,3 +11908,34 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [21May2025 05:08:45.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21May2025 05:08:45.822] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21May2025 05:08:53.587] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/79626, l='ServerLevel[world]', x=-683.29, y=-256.00, z=351.04] died, message: 'Villager was killed'
+[21May2025 05:11:09.531] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/80247, l='ServerLevel[world]', x=-736.50, y=61.06, z=298.50] died, message: 'Villager was killed'
+[21May2025 05:12:33.598] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 53
+[21May2025 05:12:33.599] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@2a275182, b=81, e=89}, net.minecraft.world.CompoundContainer@7c66997a=InventoryMapping{i=net.minecraft.world.CompoundContainer@7c66997a, c=net.minecraft.world.inventory.ChestMenu@2a275182, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@2a275182, b=54, e=80}}
+[21May2025 05:12:33.599] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@7c66997a, c=net.minecraft.world.inventory.ChestMenu@2a275182, b=0, e=53}
+[21May2025 05:13:45.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21May2025 05:13:45.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21May2025 05:14:28.508] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-725, y=70, z=258} BlockPos{x=-723, y=68, z=258}
+[21May2025 05:14:28.561] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-724, y=70, z=258} BlockPos{x=-723, y=68, z=258}
+[21May2025 05:14:28.612] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-724, y=70, z=258} BlockPos{x=-723, y=68, z=258}
+[21May2025 05:14:31.352] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-727, y=70, z=257} BlockPos{x=-728, y=68, z=256}
+[21May2025 05:14:31.763] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-728, y=70, z=255} BlockPos{x=-729, y=68, z=255}
+[21May2025 05:14:31.817] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-728, y=70, z=255} BlockPos{x=-729, y=68, z=255}
+[21May2025 05:14:32.101] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-729, y=70, z=254} BlockPos{x=-730, y=68, z=254}
+[21May2025 05:14:32.128] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-730, y=70, z=254} BlockPos{x=-730, y=68, z=254}
+[21May2025 05:14:32.149] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-730, y=70, z=254} BlockPos{x=-730, y=68, z=254}
+[21May2025 05:14:32.213] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-730, y=70, z=254} BlockPos{x=-730, y=68, z=254}
+[21May2025 05:14:32.360] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-731, y=70, z=253} BlockPos{x=-731, y=68, z=253}
+[21May2025 05:14:32.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-731, y=70, z=253} BlockPos{x=-731, y=68, z=253}
+[21May2025 05:14:32.459] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-731, y=70, z=253} BlockPos{x=-731, y=68, z=253}
+[21May2025 05:14:32.562] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-732, y=70, z=253} BlockPos{x=-732, y=68, z=252}
+[21May2025 05:14:32.657] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-732, y=70, z=252} BlockPos{x=-733, y=68, z=252}
+[21May2025 05:14:33.070] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-734, y=70, z=251} BlockPos{x=-733, y=68, z=251}
+[21May2025 05:14:34.316] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-731, y=70, z=254} BlockPos{x=-730, y=68, z=254}
+[21May2025 05:14:36.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-727, y=70, z=255} BlockPos{x=-727, y=68, z=255}
+[21May2025 05:15:53.457] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-699, y=71, z=232} BlockPos{x=-699, y=69, z=233}
+[21May2025 05:15:53.500] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-699, y=71, z=232} BlockPos{x=-699, y=69, z=233}
+[21May2025 05:18:45.839] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21May2025 05:18:45.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21May2025 05:20:14.455] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 14
+[21May2025 05:20:14.456] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@1a4764f6, b=54, e=62}, net.minecraft.world.level.block.entity.BarrelBlockEntity@2d3fe671=InventoryMapping{i=net.minecraft.world.level.block.entity.BarrelBlockEntity@2d3fe671, c=net.minecraft.world.inventory.ChestMenu@1a4764f6, b=0, e=26}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@1a4764f6, b=27, e=53}}
+[21May2025 05:20:14.456] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.level.block.entity.BarrelBlockEntity@2d3fe671, c=net.minecraft.world.inventory.ChestMenu@1a4764f6, b=0, e=26}
