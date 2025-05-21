@@ -2265,3 +2265,92 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [21May2025 01:16:30.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
 [21May2025 01:16:41.133] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.73.99.216:39825] logged in with entity id 4672 at (-721.6410911220898, 122.29491054825952, 442.60144316333424)
 [21May2025 01:16:41.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[21May2025 01:19:34.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> obra de arte
+[21May2025 01:20:27.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Que ves?
+[21May2025 01:20:32.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> A
+[21May2025 01:20:38.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Nojoda
+[21May2025 01:25:38.398] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7787, l='ServerLevel[world]', x=-679.42, y=-256.00, z=356.99] died, message: 'Villager was killed'
+[21May2025 01:27:50.859] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:60773] logged in with entity id 9439 at (-771.4186168489424, 64.0, 365.69999998807907)
+[21May2025 01:27:50.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[21May2025 01:28:03.045] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9134, l='ServerLevel[world]', x=-736.50, y=61.06, z=298.50] died, message: 'Villager was killed'
+[21May2025 01:28:20.965] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[21May2025 01:28:20.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[21May2025 01:29:40.586] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:39199] logged in with entity id 10810 at (-771.4186168489424, 64.0, 365.69999998807907)
+[21May2025 01:29:40.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[21May2025 01:29:41.084] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-136, y=15, z=336} BlockPos{x=-135, y=15, z=336}
+[21May2025 01:29:41.125] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-136, y=15, z=336} BlockPos{x=-135, y=15, z=336}
+[21May2025 01:29:44.795] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11029, l='ServerLevel[world]', x=-679.42, y=-256.00, z=356.99] died, message: 'Villager was killed'
+[21May2025 01:29:52.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> el balatreo
+[21May2025 01:30:13.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> j
+[21May2025 01:30:25.845] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11584, l='ServerLevel[world]', x=-574.44, y=-256.00, z=400.95] died, message: 'Villager was killed'
+[21May2025 01:30:40.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> sueltame balatro, quiero jugar
+[21May2025 01:31:55.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ñelda loco
+[21May2025 01:32:00.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> tan lloviendo rempalagos
+[21May2025 01:32:06.547] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13062, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.42] died, message: 'Villager was killed'
+[21May2025 01:32:11.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Mira la torre que hice
+[21May2025 01:32:27.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> yo la vi ayer
+[21May2025 01:32:27.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Desde tu barco se ve
+[21May2025 01:35:12.511] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[21May2025 01:37:56.415] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[21May2025 01:37:56.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[21May2025 01:38:58.018] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@626222b1[id=<null>,name=Pokenaito,properties={},legacy=false] (/127.150.228.4:56219) lost connection: Disconnected
+[21May2025 01:40:12.961] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3b45ca9d[id=<null>,name=Pokenaito,properties={},legacy=false] (/127.150.228.4:34491) lost connection: Disconnected
+[21May2025 01:40:27.935] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:39751] logged in with entity id 27363 at (-770.3418590442933, 63.0, 346.2562316382969)
+[21May2025 01:40:27.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[21May2025 01:40:44.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> hora de balatrear
+[21May2025 01:41:06.584] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[21May2025 01:41:06.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[21May2025 01:41:36.637] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:38625] logged in with entity id 30858 at (-770.3418590442933, 63.0, 346.2562316382969)
+[21May2025 01:41:36.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[21May2025 01:42:23.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> no profesor pacheco, no me meta a las olimpiadas matematicas, no se armar circuitos electronicos
+[21May2025 01:42:49.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> .
+[21May2025 01:43:45.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Hi dude
+[21May2025 01:43:48.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Hi
+[21May2025 01:43:57.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> VERGACION EL CAPITULO 7 si es BUENO NOJODA
+[21May2025 01:44:01.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Voy a usar tu horno
+[21May2025 01:44:05.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Adelante
+[21May2025 01:45:10.041] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/32837, l='ServerLevel[world]', x=-671.44, y=-256.00, z=325.64] died, message: 'Villager was killed'
+[21May2025 01:45:12.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Tamos en discordia artificial
+[21May2025 01:48:37.260] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[21May2025 01:48:37.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[21May2025 01:48:55.395] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33975, l='ServerLevel[world]', x=-679.42, y=-256.00, z=356.99] died, message: 'Villager was killed'
+[21May2025 01:49:38.503] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@13c54810[id=<null>,name=Pokenaito,properties={},legacy=false] (/127.150.228.4:33017) lost connection: Disconnected
+[21May2025 01:58:25.279] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:52323] logged in with entity id 36093 at (-771.5467488443879, 58.22217725663168, 336.0379083312908)
+[21May2025 01:58:25.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[21May2025 01:58:38.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> familia balatrez
+[21May2025 01:58:57.868] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[21May2025 01:58:57.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[21May2025 01:59:21.423] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:52473] logged in with entity id 36377 at (-771.5467488443879, 58.22217725663168, 336.0379083312908)
+[21May2025 01:59:21.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[21May2025 01:59:54.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> as
+[21May2025 02:00:34.209] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[21May2025 02:00:34.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[21May2025 02:00:59.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Miguel arma nueva, A probar
+[21May2025 02:01:18.683] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:50835] logged in with entity id 37273 at (-771.9282008715716, 60.99312809338936, 334.2988796631968)
+[21May2025 02:01:18.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[21May2025 02:01:36.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito drowned
+[21May2025 02:01:41.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Migue guarda la experiencia
+[21May2025 02:01:49.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> .
+[21May2025 02:01:58.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> dito lag chico
+[21May2025 02:02:02.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Listo?
+[21May2025 02:02:20.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Quita?
+[21May2025 02:02:23.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Si
+[21May2025 02:02:35.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Agarra ahi
+[21May2025 02:02:44.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> espera
+[21May2025 02:02:52.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Prueba las pistolas
+[21May2025 02:03:09.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Estan en tu mochila
+[21May2025 02:03:30.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Quitan bastante XD
+[21May2025 02:03:33.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> XD
+[21May2025 02:05:01.041] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/38477, l='ServerLevel[world]', x=-740.50, y=61.06, z=298.50] died, message: 'Villager was killed'
+[21May2025 02:05:51.446] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/39448, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.34] died, message: 'Villager was killed'
+[21May2025 02:06:04.194] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/39549, l='ServerLevel[world]', x=-574.49, y=-256.00, z=400.38] died, message: 'Villager was killed'
+[21May2025 02:06:38.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> Que coño
+[21May2025 02:06:44.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Que sono?
+[21May2025 02:06:55.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> quien anda invocando al witehr?
+[21May2025 02:07:05.096] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/40105, l='ServerLevel[world]', x=-683.28, y=-256.00, z=350.03] died, message: 'Villager was killed'
+[21May2025 02:07:08.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> me
+[21May2025 02:07:17.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> es que lo ando farmeando
+[21May2025 02:07:43.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a coño
+[21May2025 02:08:21.211] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[21May2025 02:08:22.311] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[21May2025 02:08:43.511] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already

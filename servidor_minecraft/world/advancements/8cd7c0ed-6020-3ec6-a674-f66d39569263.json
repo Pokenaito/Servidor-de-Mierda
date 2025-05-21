@@ -9996,77 +9996,71 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
-      "log_spam_fixer": "2025-05-21 01:15:53 +0000"
+      "has_smooth_stone": "2025-05-21 02:02:33 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "deeperdarker:recipes/building_blocks/gloomslate_slab_from_gloomslate_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-05-21 01:15:53 +0000"
+      "has_gloomslate": "2025-05-21 01:34:41 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "deeperdarker:recipes/building_blocks/gloomslate_wall_from_gloomslate_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-05-21 01:15:53 +0000"
+      "has_gloomslate": "2025-05-21 01:34:41 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "deeperdarker:recipes/building_blocks/gloomslate_slab": {
     "criteria": {
-      "log_spam_fixer": "2025-05-21 01:15:53 +0000"
+      "has_gloomslate": "2025-05-21 01:34:41 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "scguns:main/scorched/rat_king_and_queen": {
     "criteria": {
-      "log_spam_fixer": "2025-05-21 01:15:53 +0000"
+      "rat_king_and_queen": "2025-05-21 02:02:32 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "deeperdarker:recipes/building_blocks/smooth_gloomslate": {
     "criteria": {
-      "log_spam_fixer": "2025-05-21 01:15:53 +0000"
+      "has_gloomslate": "2025-05-21 01:34:41 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "deeperdarker:recipes/building_blocks/gloomslate_wall": {
     "criteria": {
-      "log_spam_fixer": "2025-05-21 01:15:53 +0000"
+      "has_gloomslate": "2025-05-21 01:34:41 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
-      "log_spam_fixer": "2025-05-21 01:15:53 +0000"
+      "has_smooth_stone": "2025-05-21 02:02:33 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "deeperdarker:recipes/building_blocks/gloomslate_stairs": {
     "criteria": {
-      "log_spam_fixer": "2025-05-21 01:15:53 +0000"
+      "has_gloomslate": "2025-05-21 01:34:41 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-05-21 01:15:53 +0000"
+      "has_smooth_stone": "2025-05-21 02:02:33 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "deeperdarker:recipes/building_blocks/gloomslate_stairs_from_gloomslate_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-05-21 01:15:53 +0000"
+      "has_gloomslate": "2025-05-21 01:34:41 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-21 01:15:53 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
