@@ -2593,3 +2593,18 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [21May2025 04:28:26.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has completed the challenge [Return to Sender]
 [21May2025 04:29:08.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Darude - Firestorm]
 [21May2025 04:29:08.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Strange Biomes]
+[21May2025 04:29:26.494] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/59247, l='ServerLevel[world]', x=-679.42, y=-256.00, z=356.99] died, message: 'Villager was killed'
+[21May2025 04:29:27.994] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[21May2025 04:29:28.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Hellfire Mantle]
+[21May2025 04:29:31.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -6.025652545821458,-0.5045317805908525,8.966220206579237
+[21May2025 04:30:37.318] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 10.356018156153482,0.03998814525938599,3.0180262549567374
+[21May2025 04:31:29.753] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[21May2025 04:32:15.985] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/61499, l='ServerLevel[world]', x=-679.42, y=-256.00, z=356.99] died, message: 'Villager was killed'
+[21May2025 04:33:15.706] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 1385d74c: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[21May2025 04:33:16.088] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 1385d74c: RandomSpreadSearchWorker succeeded with 1330 radius, 15 samples
+[21May2025 04:33:50.862] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[21May2025 04:34:31.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Hellish Paradise]
+[21May2025 04:34:50.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [The Floor is Tears]
+[21May2025 04:35:01.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Rescue Mission]
+[21May2025 04:38:00.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [The Dust Settles]
+[21May2025 04:38:53.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Rattling Remnants]

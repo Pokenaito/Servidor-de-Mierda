@@ -13159,9 +13159,37 @@
     },
     "done": true
   },
+  "incendium:quartz_flats/rescue_mission": {
+    "criteria": {
+      "requirement": "2025-05-21 04:35:01 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2025-05-21 04:15:13 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-05-21 04:29:08 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:ash_barrens": "2025-05-21 04:38:00 +0000",
+      "incendium:infernal_dunes": "2025-05-21 04:29:08 +0000",
+      "incendium:quartz_flats": "2025-05-21 04:34:31 +0000",
+      "incendium:inverted_forest": "2025-05-21 04:30:39 +0000",
+      "incendium:volcanic_deltas": "2025-05-21 04:29:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2025-05-21 04:38:00 +0000"
     },
     "done": true
   },
@@ -13174,6 +13202,30 @@
   "minecraft:nether/create_beacon": {
     "criteria": {
       "beacon": "2025-05-21 03:46:59 +0000"
+    },
+    "done": true
+  },
+  "incendium:volcanic_deltas/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2025-05-21 04:29:28 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/floor_is_tears": {
+    "criteria": {
+      "requirement": "2025-05-21 04:34:50 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-05-21 04:34:31 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-05-21 04:29:08 +0000"
     },
     "done": true
   },
