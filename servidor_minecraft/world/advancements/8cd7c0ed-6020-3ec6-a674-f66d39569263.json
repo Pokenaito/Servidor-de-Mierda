@@ -9996,33 +9996,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2025-05-21 02:02:33 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/acacia_hedge": {
-    "criteria": {
-      "has_acacia_leaves": "2025-05-21 02:16:49 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/spruce_hedge": {
-    "criteria": {
-      "has_spruce_leaves": "2025-05-21 02:19:11 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/building_blocks/gloomslate_slab_from_gloomslate_stonecutting": {
     "criteria": {
       "has_gloomslate": "2025-05-21 01:34:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
-    "criteria": {
-      "has_blue_orchid": "2025-05-21 02:17:03 +0000"
     },
     "done": true
   },
@@ -10038,21 +10014,9 @@
     },
     "done": true
   },
-  "scguns:main/scorched/rat_king_and_queen": {
-    "criteria": {
-      "rat_king_and_queen": "2025-05-21 02:02:32 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/building_blocks/smooth_gloomslate": {
     "criteria": {
       "has_gloomslate": "2025-05-21 01:34:41 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/oak_hedge": {
-    "criteria": {
-      "has_oak_leaves": "2025-05-21 02:20:55 +0000"
     },
     "done": true
   },
@@ -10062,21 +10026,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2025-05-21 02:02:33 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/building_blocks/gloomslate_stairs": {
     "criteria": {
       "has_gloomslate": "2025-05-21 01:34:41 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/birch_hedge": {
+  "deeperdarker:recipes/building_blocks/gloomslate_stairs_from_gloomslate_stonecutting": {
     "criteria": {
-      "has_birch_leaves": "2025-05-21 02:20:40 +0000"
+      "has_gloomslate": "2025-05-21 01:34:41 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/scorched/rat_king_and_queen": {
+    "criteria": {
+      "rat_king_and_queen": "2025-05-21 02:02:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-21 02:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-21 02:02:33 +0000"
     },
     "done": true
   },
@@ -10086,15 +10062,93 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_hedge": {
+    "criteria": {
+      "has_acacia_leaves": "2025-05-21 02:16:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-05-21 02:17:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/light_blue_dye_from_blue_orchid": {
     "criteria": {
       "has_blue_orchid": "2025-05-21 02:17:03 +0000"
     },
     "done": true
   },
-  "deeperdarker:recipes/building_blocks/gloomslate_stairs_from_gloomslate_stonecutting": {
+  "refurbished_furniture:recipes/misc/constructing/spruce_hedge": {
     "criteria": {
-      "has_gloomslate": "2025-05-21 01:34:41 +0000"
+      "has_spruce_leaves": "2025-05-21 02:19:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_hedge": {
+    "criteria": {
+      "has_birch_leaves": "2025-05-21 02:20:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_hedge": {
+    "criteria": {
+      "has_oak_leaves": "2025-05-21 02:20:55 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/barrel_main": {
+    "criteria": {
+      "has_barrel": "2025-05-21 02:36:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_slab": {
+    "criteria": {
+      "has_small_veridium_bricks": "2025-05-21 02:41:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_stairs": {
+    "criteria": {
+      "has_small_veridium_bricks": "2025-05-21 02:41:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_wall": {
+    "criteria": {
+      "has_small_veridium_bricks": "2025-05-21 02:41:50 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/pork_knuckle": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-05-21 02:43:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-21 02:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-21 02:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-21 02:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-21 02:47:08 +0000"
     },
     "done": true
   },
