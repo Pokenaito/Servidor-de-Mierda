@@ -13092,77 +13092,11 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "create:precision_mechanism": {
     "criteria": {
-      "log_spam_fixer": "2025-05-20 05:59:13 +0000"
+      "0": "2025-05-20 05:08:30 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-20 05:59:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-20 05:59:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-20 05:59:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-20 05:59:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-20 05:59:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-20 05:59:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-20 05:59:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-20 05:59:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-20 05:59:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-20 05:59:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-20 05:59:13 +0000"
-    },
-    "done": false
+    "done": true
   },
   "create:mechanical_arm": {
     "criteria": {
@@ -13170,9 +13104,9 @@
     },
     "done": true
   },
-  "create:precision_mechanism": {
+  "deeperdarker:recipes/misc/reinforced_echo_shard": {
     "criteria": {
-      "0": "2025-05-20 05:08:30 +0000"
+      "has_warden_carapace": "2025-05-21 01:14:52 +0000"
     },
     "done": true
   },
