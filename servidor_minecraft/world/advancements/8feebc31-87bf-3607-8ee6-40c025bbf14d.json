@@ -12395,6 +12395,18 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/bloom_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-21 04:52:03 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-21 04:52:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/purple_kitchen_cabinetry": {
     "criteria": {
       "has_wooden_kitchen_cabinetry": "2025-05-21 04:22:40 +0000"
