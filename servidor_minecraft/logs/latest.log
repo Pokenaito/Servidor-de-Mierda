@@ -2608,3 +2608,19 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [21May2025 04:35:01.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Rescue Mission]
 [21May2025 04:38:00.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [The Dust Settles]
 [21May2025 04:38:53.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Rattling Remnants]
+[21May2025 04:39:46.841] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[21May2025 04:39:52.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has reached the goal [An Illager Refuge?]
+[21May2025 04:39:56.759] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/67476, l='ServerLevel[world]', x=87.51, y=30.46, z=2419.87] died: Sanctum Cultist tried to swim in lava
+[21May2025 04:39:58.251] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/67539, l='ServerLevel[world]', x=89.70, y=30.53, z=2409.30] died: Sanctum Cultist tried to swim in lava
+[21May2025 04:40:04.057] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2226ms or 44 ticks behind
+[21May2025 04:43:03.310] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 1385d74c: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[21May2025 04:43:03.369] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 1385d74c: RandomSpreadSearchWorker succeeded with 242 radius, 1 samples
+[21May2025 04:45:15.688] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/71817, l='ServerLevel[world]', x=-679.88, y=-256.00, z=354.59] died, message: 'Villager was killed'
+[21May2025 04:46:30.138] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/72147, l='ServerLevel[world]', x=-679.42, y=-256.00, z=356.99] died, message: 'Villager was killed'
+[21May2025 04:47:02.045] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -9.157918251583396,1.1661092609382138,-3.975861684348388
+[21May2025 04:47:02.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2920ms or 58 ticks behind
+[21May2025 04:48:27.401] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-829, y=64, z=348} BlockPos{x=-830, y=63, z=348}
+[21May2025 04:48:27.456] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-829, y=64, z=348} BlockPos{x=-830, y=63, z=348}
+[21May2025 04:48:27.503] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-829, y=64, z=348} BlockPos{x=-830, y=63, z=348}
+[21May2025 04:49:05.804] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[21May2025 04:49:05.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
