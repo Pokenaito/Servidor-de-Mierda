@@ -12449,9 +12449,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_sweet_berries": {
+  "scguns:main/peal": {
     "criteria": {
-      "has_sweet_berries": "2025-05-22 04:40:38 +0000"
+      "peal": "2025-05-22 03:35:36 +0000"
     },
     "done": true
   },
@@ -12467,9 +12467,15 @@
     },
     "done": true
   },
-  "scguns:main/peal": {
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_sweet_berries": {
     "criteria": {
-      "peal": "2025-05-22 03:35:36 +0000"
+      "has_sweet_berries": "2025-05-22 04:40:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/frying/sweet_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-05-22 04:40:38 +0000"
     },
     "done": true
   },
@@ -12479,9 +12485,99 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/frying/sweet_berry_jam": {
+  "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
-      "has_ingredient": "2025-05-22 04:40:38 +0000"
+      "has_ice": "2025-05-22 05:02:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2025-05-22 05:27:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-22 05:27:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/bamboo_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-22 05:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-22 05:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_button": {
+    "criteria": {
+      "has_planks": "2025-05-22 05:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_door": {
+    "criteria": {
+      "has_planks": "2025-05-22 05:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-22 05:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-22 05:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_fence": {
+    "criteria": {
+      "has_planks": "2025-05-22 05:28:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_slab": {
+    "criteria": {
+      "has_planks": "2025-05-22 05:28:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_sign": {
+    "criteria": {
+      "has_planks": "2025-05-22 05:28:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-22 05:28:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_mosaic": {
+    "criteria": {
+      "has_bamboo_slab": "2025-05-22 05:28:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_mosaic_slab": {
+    "criteria": {
+      "has_bamboo_mosaic": "2025-05-22 05:28:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_mosaic_stairs": {
+    "criteria": {
+      "has_bamboo_mosaic": "2025-05-22 05:28:40 +0000"
     },
     "done": true
   },
