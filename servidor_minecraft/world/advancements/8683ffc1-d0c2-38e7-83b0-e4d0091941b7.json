@@ -13247,83 +13247,156 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-22 03:58:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-22 03:58:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-22 03:58:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-22 03:58:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-22 03:58:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-22 03:58:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-22 03:58:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-22 03:58:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-22 03:58:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-22 03:58:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-22 03:58:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-22 03:58:30 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/raw_copper": {
     "criteria": {
       "has_raw_copper_block": "2025-05-22 03:44:08 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_deepslate_copper_ore": {
+    "criteria": {
+      "has_deepslate_copper_ore": "2025-05-22 04:05:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_deepslate_copper_ore": {
+    "criteria": {
+      "has_deepslate_copper_ore": "2025-05-22 04:05:45 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/smooth_gloomslate_wall_from_smooth_gloomslate_stonecutting": {
+    "criteria": {
+      "has_smooth_gloomslate": "2025-05-22 04:06:22 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/cut_gloomslate_stairs_from_smooth_gloomslate_stonecutting": {
+    "criteria": {
+      "has_smooth_gloomslate": "2025-05-22 04:06:22 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/smooth_gloomslate_slab_from_smooth_gloomslate_stonecutting": {
+    "criteria": {
+      "has_smooth_gloomslate": "2025-05-22 04:06:22 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/smooth_gloomslate_slab": {
+    "criteria": {
+      "has_smooth_gloomslate": "2025-05-22 04:06:22 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/cut_gloomslate_slab_from_smooth_gloomslate_stonecutting": {
+    "criteria": {
+      "has_smooth_gloomslate": "2025-05-22 04:06:22 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/smooth_gloomslate_stairs_from_smooth_gloomslate_stonecutting": {
+    "criteria": {
+      "has_smooth_gloomslate": "2025-05-22 04:06:22 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/cut_gloomslate": {
+    "criteria": {
+      "has_smooth_gloomslate": "2025-05-22 04:06:22 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/smooth_gloomslate_stairs": {
+    "criteria": {
+      "has_smooth_gloomslate": "2025-05-22 04:06:22 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/smooth_gloomslate_wall": {
+    "criteria": {
+      "has_smooth_gloomslate": "2025-05-22 04:06:22 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/cut_gloomslate_wall_from_smooth_gloomslate_stonecutting": {
+    "criteria": {
+      "has_smooth_gloomslate": "2025-05-22 04:06:22 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-22 04:08:30 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-05-22 04:08:30 +0000",
+      "log_spam_fixer": "2025-05-22 04:08:30 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-22 04:08:30 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-22 04:08:30 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-22 04:08:30 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-22 04:08:30 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-22 04:08:30 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-22 04:08:30 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-22 04:08:30 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-22 04:08:30 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-22 04:08:30 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-22 04:08:30 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

@@ -12449,6 +12449,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-05-22 04:05:40 +0000"
+    },
+    "done": true
+  },
   "scguns:main/peal": {
     "criteria": {
       "peal": "2025-05-22 03:35:36 +0000"

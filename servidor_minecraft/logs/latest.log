@@ -2322,3 +2322,41 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [22May2025 03:58:43.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
 [22May2025 03:58:53.827] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:56089] logged in with entity id 13938 at (-617.696050589125, 66.79673560066871, 343.86035017311286)
 [22May2025 03:58:53.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[22May2025 03:59:45.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> lechina
+[22May2025 03:59:55.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> hmm?
+[22May2025 04:00:04.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> toma
+[22May2025 04:00:09.340] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Timed out
+[22May2025 04:00:09.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[22May2025 04:00:15.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> hice sanguche
+[22May2025 04:00:19.969] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:36723] logged in with entity id 14395 at (-685.509110639429, 65.0, 407.4825099088092)
+[22May2025 04:00:19.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[22May2025 04:00:29.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> A ver
+[22May2025 04:00:37.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Coño de huevo
+[22May2025 04:00:45.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> gracias mano
+[22May2025 04:00:52.633] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[22May2025 04:00:52.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[22May2025 04:01:59.968] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:50303] logged in with entity id 14875 at (-685.509110639429, 65.0, 407.4825099088092)
+[22May2025 04:01:59.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[22May2025 04:03:30.085] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Timed out
+[22May2025 04:03:30.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[22May2025 04:03:48.457] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:37249] logged in with entity id 15468 at (-676.9167416149011, 63.0, 400.1639958695316)
+[22May2025 04:03:48.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[22May2025 04:04:52.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 6.819926286149098,0.5578317648180047,7.741195006563203
+[22May2025 04:05:37.220] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16150, l='ServerLevel[world]', x=-676.83, y=-256.00, z=351.98] died, message: 'Villager was killed'
+[22May2025 04:06:27.221] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16556, l='ServerLevel[world]', x=-683.28, y=-256.00, z=349.93] died, message: 'Villager was killed'
+[22May2025 04:07:33.787] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Timed out
+[22May2025 04:07:33.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[22May2025 04:07:51.413] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:37311] logged in with entity id 17294 at (-683.5645606801567, 63.0, 400.47397638341096)
+[22May2025 04:07:51.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[22May2025 04:08:12.221] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/17491, l='ServerLevel[world]', x=-679.88, y=-256.00, z=354.59] died, message: 'Villager was killed'
+[22May2025 04:08:42.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! 4.370006019803441,1.1661092609382138,9.123258782825985
+[22May2025 04:09:26.894] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Timed out
+[22May2025 04:09:26.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[22May2025 04:09:26.927] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:43363] logged in with entity id 18039 at (-682.656206907632, 63.0, 411.3120605140164)
+[22May2025 04:09:26.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[22May2025 04:09:32.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 10.363172964364935,-0.8494332623673699,-1.421410815768752
+[22May2025 04:09:47.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! 9.763281854466186,1.0013359791121417,2.586165531412121
+[22May2025 04:11:22.122] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18980, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.34] died, message: 'Villager was killed'
+[22May2025 04:11:43.520] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19178, l='ServerLevel[world]', x=-765.54, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[22May2025 04:12:16.222] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19379, l='ServerLevel[world]', x=-676.83, y=-256.00, z=351.98] died, message: 'Villager was killed'
+[22May2025 04:16:24.838] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
