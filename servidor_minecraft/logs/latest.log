@@ -2253,3 +2253,35 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [24May2025 02:26:11.634] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1994, l='ServerLevel[world]', x=-765.61, y=-256.00, z=338.98] died, message: 'Villager was killed'
 [24May2025 02:27:12.583] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2113, l='ServerLevel[world]', x=-765.61, y=-256.00, z=338.98] died, message: 'Villager was killed'
 [24May2025 02:29:18.736] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2901, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.34] died, message: 'Villager was killed'
+[24May2025 02:30:20.685] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.73.99.216:58731] logged in with entity id 3364 at (-667.40729806034, 65.0, 357.86903286248724)
+[24May2025 02:30:20.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[24May2025 02:30:28.245] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Disconnected
+[24May2025 02:30:28.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[24May2025 02:31:29.617] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.73.99.216:49703] logged in with entity id 3768 at (-667.40729806034, 65.0, 357.86903286248724)
+[24May2025 02:31:29.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[24May2025 02:31:59.694] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Timed out
+[24May2025 02:31:59.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[24May2025 02:32:24.581] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.73.99.216:52915] logged in with entity id 4005 at (-667.40729806034, 65.0, 357.86903286248724)
+[24May2025 02:32:24.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[24May2025 02:33:28.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Esta fuerte el lag
+[24May2025 02:33:53.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Raro a mi me va bastante Bien
+[24May2025 02:33:58.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> AH
+[24May2025 02:34:03.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> te dio la maldicion de sbeas
+[24May2025 02:34:13.693] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Disconnected
+[24May2025 02:34:13.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[24May2025 02:34:29.442] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@292c4e3b[id=<null>,name=Lechina,properties={},legacy=false] (/127.73.99.216:43233) lost connection: Disconnected
+[24May2025 02:34:34.664] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.73.99.216:39939] logged in with entity id 4727 at (-606.9462017114936, 63.875, 416.60008181672345)
+[24May2025 02:34:34.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[24May2025 02:34:57.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Ya se acomodo
+[24May2025 02:37:58.221] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:44209] logged in with entity id 5602 at (-670.70135413146, 66.0, 357.4382462794937)
+[24May2025 02:37:58.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[24May2025 02:38:17.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> coñete
+[24May2025 02:38:19.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> seba tiene menos lag que nosotros
+[24May2025 02:38:30.299] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[24May2025 02:38:30.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[24May2025 02:38:40.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> ya No XD
+[24May2025 02:38:55.471] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:50755] logged in with entity id 5981 at (-670.70135413146, 66.0, 357.4382462794937)
+[24May2025 02:38:55.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[24May2025 02:39:15.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> hablaste muy rapido
+[24May2025 02:40:25.694] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[24May2025 02:40:25.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
