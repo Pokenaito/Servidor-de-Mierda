@@ -2395,3 +2395,4 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [24May2025 03:28:46.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> listo ya en discor
 [24May2025 03:29:12.485] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20534, l='ServerLevel[world]', x=-765.61, y=-256.00, z=338.99] died, message: 'Villager was killed'
 [24May2025 03:29:26.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Voy Voy
+[24May2025 03:40:05.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved wrongly!
