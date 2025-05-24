@@ -2413,3 +2413,32 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [24May2025 03:50:02.801] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
 [24May2025 03:50:42.149] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
 [24May2025 03:51:36.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> .
+[24May2025 03:52:46.048] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[24May2025 03:52:52.201] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[24May2025 03:54:25.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has completed the challenge [Subspace Bubble]
+[24May2025 03:54:31.335] [Worker-Main-81/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[24May2025 03:54:31.406] [Worker-Main-81/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[24May2025 03:54:31.434] [Worker-Main-81/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[24May2025 03:54:37.298] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 28168ms or 563 ticks behind
+[24May2025 03:54:37.369] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[24May2025 03:54:37.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[24May2025 03:54:37.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdasfdfads
+[24May2025 03:54:46.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ya regreso er lag
+[24May2025 03:54:50.872] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:50697] logged in with entity id 33528 at (-687.6786077819393, 65.0, 406.0631119095341)
+[24May2025 03:54:50.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[24May2025 03:56:54.494] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2764ms or 55 ticks behind
+[24May2025 03:56:54.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! -2.0883736491067566,-11.155722241444892,-0.18901673011714593
+[24May2025 03:56:56.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! -2.2919884770375347,-10.801385676719235,-0.01623765748445294
+[24May2025 03:58:09.603] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[24May2025 03:58:09.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[24May2025 04:03:40.053] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Timed out
+[24May2025 04:03:40.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[24May2025 04:05:35.831] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/38481, l='ServerLevel[world]', x=-736.50, y=61.06, z=298.50] died, message: 'Villager was killed'
+[24May2025 04:06:53.219] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.73.99.216:36171] logged in with entity id 38895 at (-737.3331274536941, -14.0, 17000.81364458895)
+[24May2025 04:06:53.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[24May2025 04:08:19.885] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/40083, l='ServerLevel[world]', x=-683.28, y=-256.00, z=350.03] died, message: 'Villager was killed'
+[24May2025 04:08:53.658] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-736, y=-18, z=16904} BlockPos{x=-735, y=-18, z=16903}
+[24May2025 04:19:38.883] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:58957] logged in with entity id 45622 at (-768.6501911271221, 63.0, 344.5398472919445)
+[24May2025 04:19:38.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[24May2025 04:20:01.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> el balatro mi pasion, las mujeres mi perdicion
+[24May2025 04:20:56.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> .
