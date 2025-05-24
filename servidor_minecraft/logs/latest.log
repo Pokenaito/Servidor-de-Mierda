@@ -2659,3 +2659,19 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [24May2025 06:01:52.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 1.2218952178955078E-5,58.82324072493576,0.0
 [24May2025 06:01:54.282] [Worker-Main-81/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [0 above bottom--8 absolute]
 [24May2025 06:03:25.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 3.935198116051424,3.6904134766708836,8.543255783366476
+[24May2025 06:05:55.478] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=983, y=54, z=19539} BlockPos{x=982, y=53, z=19539}
+[24May2025 06:06:04.423] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=979, y=56, z=19547} BlockPos{x=980, y=54, z=19548}
+[24May2025 06:06:04.493] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=979, y=56, z=19547} BlockPos{x=980, y=54, z=19548}
+[24May2025 06:06:04.594] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=979, y=56, z=19547} BlockPos{x=980, y=54, z=19548}
+[24May2025 06:06:04.595] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=979, y=56, z=19547} BlockPos{x=980, y=54, z=19548}
+[24May2025 06:06:04.620] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=979, y=56, z=19547} BlockPos{x=980, y=54, z=19548}
+[24May2025 06:06:04.669] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=979, y=56, z=19547} BlockPos{x=980, y=54, z=19548}
+[24May2025 06:06:09.551] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1006, y=52, z=19504} BlockPos{x=1005, y=51, z=19504}
+[24May2025 06:06:09.601] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1007, y=52, z=19504} BlockPos{x=1005, y=51, z=19504}
+[24May2025 06:06:15.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has completed the challenge [Echolocation]
+[24May2025 06:07:12.127] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1004, y=54, z=19538} BlockPos{x=1005, y=54, z=19540}
+[24May2025 06:07:57.401] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2521ms or 50 ticks behind
+[24May2025 06:09:24.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 2.51790717790891,-0.3557654336595988,10.311014094668792
+[24May2025 06:12:07.245] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[24May2025 06:12:07.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[24May2025 06:16:50.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [Darkness Begone!]
