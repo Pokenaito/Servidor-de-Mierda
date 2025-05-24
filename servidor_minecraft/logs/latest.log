@@ -2337,3 +2337,19 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [24May2025 02:58:57.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
 [24May2025 02:59:48.194] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Timed out
 [24May2025 02:59:48.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[24May2025 03:01:09.062] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:40037] logged in with entity id 11730 at (-670.70135413146, 65.0, 357.4382462794937)
+[24May2025 03:01:09.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[24May2025 03:01:31.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> erga hasta a migh
+[24May2025 03:01:34.445] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[24May2025 03:01:34.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[24May2025 03:04:05.930] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/12104, l='ServerLevel[world]', x=-736.50, y=61.06, z=298.50] died, message: 'Villager was killed'
+[24May2025 03:05:01.062] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:55333] logged in with entity id 12260 at (-670.70135413146, 65.0, 357.4382462794937)
+[24May2025 03:05:01.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[24May2025 03:05:29.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> pero para verificar a los mountruos matandome si es bueno
+[24May2025 03:05:34.293] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[24May2025 03:05:34.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[24May2025 03:05:57.560] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.73.99.216:47609] logged in with entity id 12548 at (-601.6382967357114, 51.0, 407.69794576160837)
+[24May2025 03:05:57.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[24May2025 03:07:14.009] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-592, y=49, z=402} BlockPos{x=-593, y=48, z=402}
+[24May2025 03:07:17.001] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-581, y=47, z=402} BlockPos{x=-582, y=46, z=402}
+[24May2025 03:09:15.983] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13779, l='ServerLevel[world]', x=-683.28, y=-256.00, z=350.03] died, message: 'Villager was killed'
