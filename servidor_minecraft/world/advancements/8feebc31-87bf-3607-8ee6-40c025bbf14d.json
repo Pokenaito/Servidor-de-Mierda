@@ -12859,6 +12859,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-05-24 06:29:59 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/smooth_gloomslate": {
     "criteria": {
       "has_gloomslate": "2025-05-24 06:04:16 +0000"
