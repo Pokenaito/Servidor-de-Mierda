@@ -13343,5 +13343,38 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-24 04:40:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-24 04:39:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-24 04:39:53 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/mystic_wisdom": {
+    "criteria": {
+      "waste": "2025-05-24 04:37:40 +0000",
+      "junk": "2025-05-24 04:40:35 +0000",
+      "treasure": "2025-05-24 04:39:22 +0000",
+      "office": "2025-05-24 04:36:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:toxic_heap/nuclear_fusion": {
+    "criteria": {
+      "incendium:office": "2025-05-24 04:36:55 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
