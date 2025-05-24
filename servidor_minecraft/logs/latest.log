@@ -2459,3 +2459,8 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [24May2025 04:39:25.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has reached the goal [Pocket Edition Alpha]
 [24May2025 04:39:59.433] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
 [24May2025 04:40:41.741] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[24May2025 04:43:50.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has completed the challenge [Treacherous Heights]
+[24May2025 04:44:14.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has completed the challenge [Treacherous Heights]
+[24May2025 04:46:05.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -2.013146819129247,2.542780047839557,9.489049391220533
+[24May2025 04:48:34.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [Hellish Paradise]
+[24May2025 04:49:26.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [Hellish Paradise]

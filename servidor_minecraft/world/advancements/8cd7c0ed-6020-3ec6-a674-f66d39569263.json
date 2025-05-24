@@ -10748,9 +10748,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-24 04:42:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-05-24 04:41:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-24 04:42:56 +0000"
     },
     "done": true
   },
@@ -10787,6 +10799,7 @@
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:infernal_dunes": "2025-05-24 04:34:37 +0000",
+      "incendium:quartz_flats": "2025-05-24 04:49:26 +0000",
       "incendium:volcanic_deltas": "2025-05-24 04:35:17 +0000"
     },
     "done": false
@@ -10873,6 +10886,18 @@
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_nether_brick": "2025-05-24 04:41:31 +0000"
+    },
+    "done": true
+  },
+  "incendium:volcanic_deltas/hidden_debris": {
+    "criteria": {
+      "requirement": "2025-05-24 04:43:50 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-05-24 04:49:26 +0000"
     },
     "done": true
   },

@@ -13343,9 +13343,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-24 04:44:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-05-24 04:40:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-24 04:44:02 +0000"
     },
     "done": true
   },
@@ -13373,6 +13385,12 @@
   "incendium:toxic_heap/nuclear_fusion": {
     "criteria": {
       "incendium:office": "2025-05-24 04:36:55 +0000"
+    },
+    "done": true
+  },
+  "incendium:volcanic_deltas/hidden_debris": {
+    "criteria": {
+      "requirement": "2025-05-24 04:44:14 +0000"
     },
     "done": true
   },

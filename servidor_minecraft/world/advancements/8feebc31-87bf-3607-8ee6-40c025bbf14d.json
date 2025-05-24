@@ -12589,75 +12589,87 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-05-24 04:42:00 +0000"
+      "log_spam_fixer": "2025-05-24 04:52:00 +0000"
     },
     "done": false
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-24 04:42:00 +0000"
+      "log_spam_fixer": "2025-05-24 04:52:00 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-24 04:42:00 +0000"
+      "log_spam_fixer": "2025-05-24 04:52:00 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-24 04:42:00 +0000"
+      "log_spam_fixer": "2025-05-24 04:52:00 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-24 04:42:00 +0000"
+      "log_spam_fixer": "2025-05-24 04:52:00 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-24 04:42:00 +0000"
+      "log_spam_fixer": "2025-05-24 04:52:00 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-24 04:42:00 +0000"
+      "log_spam_fixer": "2025-05-24 04:52:00 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-24 04:42:00 +0000"
+      "log_spam_fixer": "2025-05-24 04:52:00 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-24 04:42:00 +0000"
+      "log_spam_fixer": "2025-05-24 04:52:00 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-24 04:42:00 +0000"
+      "log_spam_fixer": "2025-05-24 04:52:00 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-24 04:42:00 +0000"
+      "log_spam_fixer": "2025-05-24 04:52:00 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-24 04:42:00 +0000"
+      "log_spam_fixer": "2025-05-24 04:52:00 +0000"
     },
     "done": false
+  },
+  "netherexp:recipes/bone_blocks/bone_cortical": {
+    "criteria": {
+      "has_item": "2025-05-24 04:51:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-24 04:51:11 +0000"
+    },
+    "done": true
   },
   "incendium:misc/root": {
     "criteria": {
@@ -12665,12 +12677,25 @@
     },
     "done": true
   },
+  "netherexp:recipes/bone_blocks/stacked_bones": {
+    "criteria": {
+      "has_item": "2025-05-24 04:51:11 +0000"
+    },
+    "done": true
+  },
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:infernal_dunes": "2025-05-24 04:34:57 +0000",
+      "incendium:quartz_flats": "2025-05-24 04:48:34 +0000",
       "incendium:volcanic_deltas": "2025-05-24 04:35:14 +0000"
     },
     "done": false
+  },
+  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
+    "criteria": {
+      "has_item": "2025-05-24 04:51:11 +0000"
+    },
+    "done": true
   },
   "netherexp:recipes/quartz/quartz_crystal_block": {
     "criteria": {
@@ -12687,6 +12712,18 @@
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_nether_brick": "2025-05-24 04:35:43 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-05-24 04:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_glazed_terracotta": {
+    "criteria": {
+      "has_lime_terracotta": "2025-05-24 04:43:19 +0000"
     },
     "done": true
   },
