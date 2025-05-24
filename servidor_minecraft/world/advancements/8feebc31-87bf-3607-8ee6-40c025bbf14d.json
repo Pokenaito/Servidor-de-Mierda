@@ -12748,6 +12748,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/enter_otherside": {
+    "criteria": {
+      "otherside": "2025-05-24 06:01:52 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_foundry": {
     "criteria": {
       "location0": "2025-05-24 05:31:59 +0000"
@@ -12760,15 +12766,45 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/misc/warden_upgrade_smithing_template": {
+    "criteria": {
+      "has_warden_upgrade_smithing_template": "2025-05-24 05:59:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
     "criteria": {
       "has_gold_ore": "2025-05-24 05:39:01 +0000"
     },
     "done": true
   },
+  "scguns:main/deep_dark_blueprint": {
+    "criteria": {
+      "deep_dark_blueprint": "2025-05-24 05:57:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
     "criteria": {
       "has_gold_ore": "2025-05-24 05:39:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-24 05:59:13 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/explore_otherside": {
+    "criteria": {
+      "echoing_forest": "2025-05-24 06:01:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
+    "criteria": {
+      "has_ward_armor_trim_smithing_template": "2025-05-24 05:59:13 +0000"
     },
     "done": true
   },
@@ -12787,6 +12823,18 @@
   "deeperdarker:main/find_ancient_city": {
     "criteria": {
       "ancient_city": "2025-05-24 05:29:21 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/iron/greaser_smg": {
+    "criteria": {
+      "greaser_smg": "2025-05-24 05:54:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-05-24 05:55:15 +0000"
     },
     "done": true
   },

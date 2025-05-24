@@ -13400,5 +13400,11 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/misc/warden_upgrade_smithing_template": {
+    "criteria": {
+      "has_warden_upgrade_smithing_template": "2025-05-24 05:54:21 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

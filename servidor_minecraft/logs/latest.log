@@ -2652,3 +2652,10 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [24May2025 05:45:04.978] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -9.919972624161687,1.563622624709254,-2.0144848062664096
 [24May2025 05:49:21.037] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/78759, l='ServerLevel[world]', x=917.52, y=-6.80, z=19401.70] died: Foundry Guardian was shot by Pokenaito using [Perforador Anal]
 [24May2025 05:49:43.989] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/78758, l='ServerLevel[world]', x=927.70, y=-9.80, z=19394.56] died: Foundry Guardian was shot by Pokenaito using [Perforador Anal]
+[24May2025 06:01:52.395] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2365ms or 47 ticks behind
+[24May2025 06:01:52.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [Below the Bedrock]
+[24May2025 06:01:52.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! 1.2218952178955078E-5,63.99866402088785,0.0
+[24May2025 06:01:52.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! 1.2218952178955078E-5,60.74786952770372,0.0
+[24May2025 06:01:52.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 1.2218952178955078E-5,58.82324072493576,0.0
+[24May2025 06:01:54.282] [Worker-Main-81/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [0 above bottom--8 absolute]
+[24May2025 06:03:25.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 3.935198116051424,3.6904134766708836,8.543255783366476
