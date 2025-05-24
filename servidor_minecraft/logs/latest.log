@@ -2442,3 +2442,9 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [24May2025 04:19:38.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
 [24May2025 04:20:01.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> el balatro mi pasion, las mujeres mi perdicion
 [24May2025 04:20:56.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> .
+[24May2025 04:22:32.752] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[24May2025 04:23:18.984] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/47329, l='ServerLevel[world]', x=-765.56, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[24May2025 04:24:16.830] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/47674, l='ServerLevel[world]', x=-681.51, y=-256.00, z=352.15] died, message: 'Villager was killed'
+[24May2025 04:26:07.884] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/50234, l='ServerLevel[world]', x=-683.28, y=-256.00, z=350.03] died, message: 'Villager was killed'
+[24May2025 04:29:43.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> sa
+[24May2025 04:32:04.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 9.293935130733587,0.5286998111210437,4.781594969498542
