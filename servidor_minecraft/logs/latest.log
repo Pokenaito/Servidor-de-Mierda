@@ -2582,3 +2582,57 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [24May2025 05:12:02.402] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/62125, l='ServerLevel[world]', x=65.30, y=36.00, z=2417.70] died: Sanctum Cultist was slain by Pokenaito using [La Penetradora del diablo]
 [24May2025 05:12:43.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> adsad
 [24May2025 05:12:56.537] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[24May2025 05:13:31.611] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[24May2025 05:13:31.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[24May2025 05:13:44.257] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/62168, l='ServerLevel[world]', x=93.70, y=30.46, z=2416.70] died: Sanctum Cultist tried to swim in lava to escape Lechina
+[24May2025 05:14:06.620] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:42121] logged in with entity id 66803 at (99.6407621719835, 36.0, 2376.7786551028153)
+[24May2025 05:14:06.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[24May2025 05:14:28.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> sabroso
+[24May2025 05:14:48.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> k
+[24May2025 05:15:48.148] [Worker-Main-72/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[24May2025 05:15:48.199] [Worker-Main-72/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[24May2025 05:15:53.029] [Worker-Main-72/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[24May2025 05:16:25.310] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Disconnected
+[24May2025 05:16:25.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[24May2025 05:16:25.411] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[24May2025 05:16:25.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[24May2025 05:16:25.639] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 43659ms or 873 ticks behind
+[24May2025 05:16:25.678] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[24May2025 05:16:25.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[24May2025 05:16:25.721] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24May2025 05:16:32.231] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:32827] logged in with entity id 67105 at (105.54403708870733, 34.0, 2436.465751509489)
+[24May2025 05:16:32.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[24May2025 05:16:37.780] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:43135] logged in with entity id 67114 at (80.1696344274533, 36.0, 2368.199288498761)
+[24May2025 05:16:37.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[24May2025 05:17:01.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> when haces tus momos en minecraft
+[24May2025 05:17:04.145] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23515ms or 470 ticks behind
+[24May2025 05:17:07.218] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[24May2025 05:17:07.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[24May2025 05:17:09.642] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.73.99.216:50467] logged in with entity id 67329 at (821.9519701105363, 14.0, 19487.5)
+[24May2025 05:17:09.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[24May2025 05:17:16.177] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:37477] logged in with entity id 67406 at (821.4552995838447, 14.0, 19487.69074319641)
+[24May2025 05:17:16.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[24May2025 05:17:24.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4030ms or 80 ticks behind
+[24May2025 05:18:34.194] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[24May2025 05:26:21.160] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Protector'/67156, l='ServerLevel[world]', x=86.30, y=49.00, z=2446.70] died: Sanctum Protector was slain by Pokenaito using [La Penetradora del diablo]
+[24May2025 05:28:13.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has completed the challenge [Subspace Bubble]
+[24May2025 05:28:55.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -6.304457580902863,-6.06043730682962,-5.4401109637037735
+[24May2025 05:28:55.835] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4105ms or 82 ticks behind
+[24May2025 05:29:21.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has reached the goal [A Metropolis of Restless Souls]
+[24May2025 05:31:25.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -3.1636968001708965,4.953804616645373,-8.192138293816242
+[24May2025 05:31:35.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Iron Maiden]
+[24May2025 05:31:51.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 0.32756808456633735,2.440420725478237,-10.104827269013185
+[24May2025 05:31:51.225] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3795ms or 75 ticks behind
+[24May2025 05:31:51.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [Iron Maiden]
+[24May2025 05:31:59.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! 3.943001308351427,0.0,9.391663894446538
+[24May2025 05:31:59.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [Iron Maiden]
+[24May2025 05:32:42.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! 2.084555524824623,0.0,9.854216034455021
+[24May2025 05:32:42.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -10.07298913504917,0.0,0.5439050262211822
+[24May2025 05:32:42.306] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! -10.065392897459446,0.7531999805212015,-1.6505499444247107
+[24May2025 05:32:42.310] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8130ms or 162 ticks behind
+[24May2025 05:32:53.437] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/73551, l='ServerLevel[world]', x=942.60, y=-8.39, z=19378.36] died: Debris Miner was slain by Forge Sentry
+[24May2025 05:33:18.445] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/73682, l='ServerLevel[world]', x=927.70, y=-9.80, z=19394.93] died: Foundry Guardian was shot by Pokenaito using [Perforador Anal]
+[24May2025 05:33:24.640] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/73683, l='ServerLevel[world]', x=922.84, y=-10.83, z=19397.21] died: Foundry Guardian was shot by Pokenaito using [Perforador Anal]
+[24May2025 05:33:34.291] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/73472, l='ServerLevel[world]', x=923.95, y=-7.97, z=19398.54] died: Foundry Guardian was shot by Pokenaito using [Perforador Anal]
+[24May2025 05:33:41.789] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/74055, l='ServerLevel[world]', x=918.72, y=-9.85, z=19398.85] died: Foundry Guardian was shot by Pokenaito using [Perforador Anal]
+[24May2025 05:33:42.988] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/73519, l='ServerLevel[world]', x=914.08, y=-8.00, z=19390.35] died: Forge Sentry was shot by Lechina

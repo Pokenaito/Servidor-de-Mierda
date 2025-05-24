@@ -10749,93 +10749,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/magenta_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-05-24 04:42:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-05-24 04:41:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
-    "criteria": {
-      "has_polished_blackstone": "2025-05-24 05:06:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-05-24 04:42:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-05-24 05:06:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/polished_blackstone_button": {
-    "criteria": {
-      "has_polished_blackstone": "2025-05-24 05:06:30 +0000"
-    },
-    "done": true
-  },
-  "incendium:quartz_flats/sanctum/root": {
-    "criteria": {
-      "requirement": "2025-05-24 05:00:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
-    "criteria": {
-      "has_polished_blackstone": "2025-05-24 05:06:30 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/blackstone/pillar": {
-    "criteria": {
-      "has_item": "2025-05-24 05:06:30 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/nether_bricks/nether_brick_pillar": {
-    "criteria": {
-      "has_item": "2025-05-24 04:38:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-05-24 04:39:29 +0000"
-    },
-    "done": true
-  },
   "incendium:misc/root": {
     "criteria": {
       "incendium:infernal_dunes": "2025-05-24 04:34:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-05-24 04:38:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-05-24 05:06:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-05-24 04:38:38 +0000"
     },
     "done": true
   },
@@ -10847,21 +10763,15 @@
     },
     "done": false
   },
-  "minecraft:recipes/decorations/nether_brick_wall": {
+  "incendium:infernal_dunes/root": {
     "criteria": {
-      "has_nether_bricks": "2025-05-24 04:38:38 +0000"
+      "incendium:infernal_dunes": "2025-05-24 04:34:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+  "incendium:volcanic_deltas/root": {
     "criteria": {
-      "has_polished_blackstone": "2025-05-24 05:06:30 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/nether_bricks/blue/nether_bricks": {
-    "criteria": {
-      "has_item": "2025-05-24 04:38:38 +0000"
+      "incendium:volcanic_deltas": "2025-05-24 04:35:17 +0000"
     },
     "done": true
   },
@@ -10871,24 +10781,35 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/green_stained_glass_pane": {
+  "netherexp:recipes/nether_bricks/nether_brick_pillar": {
     "criteria": {
-      "has_glass": "2025-05-24 04:39:27 +0000"
+      "has_item": "2025-05-24 04:38:38 +0000"
     },
     "done": true
   },
-  "netherexp:recipes/blackstone/fence": {
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
-      "has_item": "2025-05-24 05:06:30 +0000"
+      "has_nether_bricks": "2025-05-24 04:38:38 +0000"
     },
     "done": true
   },
-  "incendium:toxic_heap/mystic_wisdom": {
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
-      "waste": "2025-05-24 04:41:36 +0000",
-      "junk": "2025-05-24 04:39:25 +0000"
+      "has_nether_bricks": "2025-05-24 04:38:38 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-24 04:38:38 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/nether_bricks/blue/nether_bricks": {
+    "criteria": {
+      "has_item": "2025-05-24 04:38:38 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
@@ -10920,23 +10841,24 @@
     },
     "done": true
   },
-  "incendium:volcanic_deltas/root": {
-    "criteria": {
-      "incendium:volcanic_deltas": "2025-05-24 04:35:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-05-24 04:38:38 +0000"
     },
     "done": true
   },
-  "incendium:quartz_flats/floor_is_tears": {
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
-      "requirement": "2025-05-24 05:00:55 +0000"
+      "has_nether_bricks": "2025-05-24 04:38:38 +0000"
     },
     "done": true
+  },
+  "incendium:toxic_heap/mystic_wisdom": {
+    "criteria": {
+      "waste": "2025-05-24 04:41:36 +0000",
+      "junk": "2025-05-24 04:39:25 +0000"
+    },
+    "done": false
   },
   "incendium:toxic_heap/nuclear_fusion": {
     "criteria": {
@@ -10944,39 +10866,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+  "minecraft:recipes/decorations/green_stained_glass_pane": {
     "criteria": {
-      "has_polished_blackstone": "2025-05-24 05:06:30 +0000"
+      "has_glass": "2025-05-24 04:39:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_bricks": {
+  "minecraft:recipes/decorations/lime_stained_glass_pane": {
     "criteria": {
-      "has_nether_brick": "2025-05-24 04:41:31 +0000"
-    },
-    "done": true
-  },
-  "incendium:volcanic_deltas/hidden_debris": {
-    "criteria": {
-      "requirement": "2025-05-24 04:43:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-05-24 05:06:30 +0000"
-    },
-    "done": true
-  },
-  "incendium:quartz_flats/root": {
-    "criteria": {
-      "requirement": "2025-05-24 04:49:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-05-24 05:06:30 +0000"
+      "has_glass": "2025-05-24 04:39:29 +0000"
     },
     "done": true
   },
@@ -10986,9 +10884,117 @@
     },
     "done": true
   },
-  "incendium:infernal_dunes/root": {
+  "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
-      "incendium:infernal_dunes": "2025-05-24 04:34:37 +0000"
+      "has_nether_brick": "2025-05-24 04:41:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-24 04:41:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-24 04:42:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-24 04:42:57 +0000"
+    },
+    "done": true
+  },
+  "incendium:volcanic_deltas/hidden_debris": {
+    "criteria": {
+      "requirement": "2025-05-24 04:43:50 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-05-24 04:49:26 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/sanctum/root": {
+    "criteria": {
+      "requirement": "2025-05-24 05:00:53 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/floor_is_tears": {
+    "criteria": {
+      "requirement": "2025-05-24 05:00:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-24 05:06:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-24 05:06:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-24 05:06:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-24 05:06:30 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/pillar": {
+    "criteria": {
+      "has_item": "2025-05-24 05:06:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-24 05:06:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-24 05:06:30 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/fence": {
+    "criteria": {
+      "has_item": "2025-05-24 05:06:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-24 05:06:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-24 05:06:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-24 05:06:30 +0000"
     },
     "done": true
   },
@@ -11010,12 +11016,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-05-24 04:38:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_blackstone_wall": {
     "criteria": {
       "has_polished_blackstone": "2025-05-24 05:06:30 +0000"
@@ -11025,6 +11025,30 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-05-24 05:06:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-05-24 05:13:57 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_foundry": {
+    "criteria": {
+      "location0": "2025-05-24 05:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-05-24 05:33:24 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/iron/greaser_smg": {
+    "criteria": {
+      "greaser_smg": "2025-05-24 05:29:01 +0000"
     },
     "done": true
   },
