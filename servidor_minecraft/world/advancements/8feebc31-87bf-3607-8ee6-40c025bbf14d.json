@@ -12581,5 +12581,11 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cabbage_from_leaves": {
+    "criteria": {
+      "has_cabbage_leaf": "2025-05-24 03:44:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

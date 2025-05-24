@@ -10459,15 +10459,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-05-24 03:41:30 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_kitchen_sink": {
     "criteria": {
       "has_white_dye": "2025-05-24 03:34:54 +0000"
     },
     "done": true
   },
+  "brewery:recipes/fried_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2025-05-24 03:41:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-05-24 03:41:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_white_bed": {
     "criteria": {
       "has_needed_dye": "2025-05-24 03:34:54 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/basalt/slab": {
+    "criteria": {
+      "has_item": "2025-05-24 03:51:12 +0000"
     },
     "done": true
   },
@@ -10489,6 +10513,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-24 03:51:12 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/white_stool_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-24 03:34:54 +0000"
@@ -10504,6 +10534,12 @@
   "refurbished_furniture:recipes/decorations/white_lamp_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-24 03:34:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/rice_roll_medley_block": {
+    "criteria": {
+      "has_rice_roll": "2025-05-24 03:43:50 +0000"
     },
     "done": true
   },
@@ -10561,15 +10597,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-24 03:51:12 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_bath": {
     "criteria": {
       "has_white_dye": "2025-05-24 03:34:54 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-05-24 03:51:17 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_cabinetry": {
     "criteria": {
       "has_white_dye": "2025-05-24 03:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-05-24 03:41:30 +0000"
     },
     "done": true
   },
@@ -10621,6 +10675,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/basalt/stairs": {
+    "criteria": {
+      "has_item": "2025-05-24 03:51:12 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/white_sofa_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-24 03:34:54 +0000"
@@ -10630,6 +10690,12 @@
   "minecraft:recipes/building_blocks/dye_white_wool": {
     "criteria": {
       "has_needed_dye": "2025-05-24 03:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-05-24 03:51:12 +0000"
     },
     "done": true
   },
@@ -10654,6 +10720,12 @@
   "refurbished_furniture:recipes/misc/constructing/warped_kitchen_drawer": {
     "criteria": {
       "has_white_dye": "2025-05-24 03:34:54 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/basalt/wall": {
+    "criteria": {
+      "has_item": "2025-05-24 03:51:12 +0000"
     },
     "done": true
   },
