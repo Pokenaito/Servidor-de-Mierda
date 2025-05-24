@@ -2285,3 +2285,24 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [24May2025 02:39:15.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> hablaste muy rapido
 [24May2025 02:40:25.694] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
 [24May2025 02:40:25.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[24May2025 02:40:42.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Hasta que mi disco chino no aparezca
+[24May2025 02:40:48.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Se queda esa rola
+[24May2025 02:40:53.284] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6363, l='ServerLevel[world]', x=-765.59, y=-256.00, z=338.88] died, message: 'Villager was killed'
+[24May2025 02:40:56.716] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:53755] logged in with entity id 6398 at (-670.70135413146, 66.0, 357.4382462794937)
+[24May2025 02:40:56.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[24May2025 02:41:24.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdas
+[24May2025 02:41:31.156] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[24May2025 02:41:31.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[24May2025 02:41:32.983] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6634, l='ServerLevel[world]', x=-679.30, y=-256.00, z=356.79] died, message: 'Villager was killed'
+[24May2025 02:41:56.271] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:34143] logged in with entity id 6750 at (-670.70135413146, 66.0, 357.4382462794937)
+[24May2025 02:41:56.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[24May2025 02:42:23.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ya la ves pasada habia jugado muy sabroso, esta vez se tenia que compensar
+[24May2025 02:42:43.150] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[24May2025 02:42:43.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[24May2025 02:44:18.916] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:47945] logged in with entity id 7406 at (-670.70135413146, 66.0, 357.4382462794937)
+[24May2025 02:44:18.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[24May2025 02:44:31.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Argenis alla no se escucha verdad?
+[24May2025 02:44:43.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> la vida no tiene color, todo lo veo lageado
+[24May2025 02:44:48.997] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[24May2025 02:44:48.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[24May2025 02:45:50.944] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7795, l='ServerLevel[world]', x=-679.30, y=-256.00, z=356.79] died, message: 'Villager was killed'

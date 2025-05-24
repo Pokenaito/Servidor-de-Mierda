@@ -10429,5 +10429,11 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_calcite_brick_slab_recycling": {
+    "criteria": {
+      "has_cut_calcite_brick_slab": "2025-05-24 02:45:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
