@@ -2257,3 +2257,8 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[25May2025 02:58:30.462] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2748, l='ServerLevel[world]', x=-676.68, y=-256.00, z=350.91] died, message: 'Villager was killed'
+[25May2025 03:00:16.811] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3266, l='ServerLevel[world]', x=-680.00, y=-256.00, z=356.25] died, message: 'Villager was killed'
+[25May2025 03:01:44.475] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager bf708482: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[25May2025 03:01:46.793] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager bf708482: RandomSpreadSearchWorker succeeded with 7013 radius, 134 samples
+[25May2025 03:06:10.319] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/7771, l='ServerLevel[world]', x=-603.82, y=63.00, z=459.46] died, message: 'Mason was slain by The Moonflower'
