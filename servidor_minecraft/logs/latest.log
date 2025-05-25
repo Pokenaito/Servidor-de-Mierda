@@ -2262,3 +2262,20 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [25May2025 03:01:44.475] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager bf708482: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
 [25May2025 03:01:46.793] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager bf708482: RandomSpreadSearchWorker succeeded with 7013 radius, 134 samples
 [25May2025 03:06:10.319] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/7771, l='ServerLevel[world]', x=-603.82, y=63.00, z=459.46] died, message: 'Mason was slain by The Moonflower'
+[25May2025 03:11:18.362] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.73.99.216:49743] logged in with entity id 9647 at (-598.1304407720199, 51.0, 413.524753110449)
+[25May2025 03:11:18.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[25May2025 03:12:04.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> HolaBrooo
+[25May2025 03:12:06.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Discord?
+[25May2025 03:12:10.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Holaaa
+[25May2025 03:12:11.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Va
+[25May2025 03:12:22.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Voymi rey
+[25May2025 03:14:09.127] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:60569] logged in with entity id 10539 at (-765.2701510764379, 69.0, 376.6433152964972)
+[25May2025 03:14:09.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[25May2025 03:14:39.177] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[25May2025 03:14:39.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[25May2025 03:15:05.102] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:57065] logged in with entity id 10862 at (-765.2701510764379, 69.0, 376.6433152964972)
+[25May2025 03:15:05.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[25May2025 03:15:14.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> gogosfasdf
+[25May2025 03:15:27.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> billy, mandy, el papa de billy
+[25May2025 03:15:54.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> el gato de billy
+[25May2025 03:16:13.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved wrongly!
